@@ -1,0 +1,15 @@
+{
+  "additional_special_tokens": [
+    "<s_iitcdip>",
+    "<s_synthdog>",
+    "</s>",
+    "<s>"
+  ],
+  "bos_token": "<s>",
+  "cls_token": "<s>",
+  "eos_token": "</s>",
+  "mask_token": "<mask>",
+  "pad_token": "<pad>",
+  "sep_token": "</s>",
+  "unk_token": "<unk>"
+}

@@ -1,0 +1,29 @@
+{
+  "additional_special_tokens": [
+    "<s_iitcdip>",
+    "<s_synthdog>",
+    "</s_Unit 1 Price>",
+    "</s_Unit 2 Price>",
+    "</s>",
+    "<s_Store address>",
+    "<s_Store name>",
+    "</s_Unit 1 name>",
+    "<s_Unit 2 name>",
+    "<s_Unit 2 Price>",
+    "<s_Total Amount>",
+    "<s_Unit 1 name>",
+    "</s_Store name>",
+    "</s_Total Amount>",
+    "</s_Store address>",
+    "</s_Unit 2 name>",
+    "<s_Unit 1 Price>",
+    "<s>"
+  ],
+  "bos_token": "<s>",
+  "cls_token": "<s>",
+  "eos_token": "</s>",
+  "mask_token": "<mask>",
+  "pad_token": "<pad>",
+  "sep_token": "</s>",
+  "unk_token": "<unk>"
+}

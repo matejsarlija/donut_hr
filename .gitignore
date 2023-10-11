@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Pipenv
+Pipfile
+Pipfile.lock
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+.jupyter-log/
+
+# some folders
+env/
+processed__lipik_dataset/
+processed_dataset/
+donut-base-sroie/
+donut-base-sroie-v1.5/

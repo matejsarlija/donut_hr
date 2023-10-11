@@ -1,0 +1,5478 @@
+[
+  {
+    "task_id": "6522a2e9b1493c381b92dd32",
+    "created_at": "2023-10-08T12:39:05.237Z",
+    "completed_at": "2023-10-08T13:11:38.195Z",
+    "type": "documenttranscription",
+    "status": "completed",
+    "instruction": " ",
+    "params": {
+      "features": [
+        {
+          "label": "Unit 1 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 1 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Unit 2 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 2 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Total Amount",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Store address",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Store name",
+          "type": "text",
+          "flags": []
+        }
+      ],
+      "fields": [],
+      "attachment_type": "image",
+      "attachments": [
+        "scaledata://6413387b009c446a440aea52/69b86be2-0687-442e-9ae7-7c1569df312e"
+      ]
+    },
+    "is_test": false,
+    "urgency": "standard",
+    "metadata": {
+      "filename": "Konzum-93357-0347-2-2023_page-0001.jpg",
+      "upload_group_id": "2023-10-07 19:53:10",
+      "upload_source": "computer"
+    },
+    "processed_attachments": [],
+    "project": "Rapido",
+    "priority": 0,
+    "taxonomyVersion": "6522a1e0a1035490a5c8d7ea",
+    "attachmentS3Downloads": [
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/69b86be2-0687-442e-9ae7-7c1569df312e",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e9b1493c381b92dd32/jpeg/11f80510-ef4f-4931-9658-e3155f7e9f43?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=UU9vw%7E2fwWkxpT3j-c8iHfomqGkcecLYjCmx-MhsB5RwqZXJnYiLWzw8c5Gyjk4g2nCFlSvcMPyp2fbHpJ2xSHL6Q0GRlM9YnKFXdnXXsAQ%7E6KopzYkFYh5JV-C3ZtNtQcDEMvc-X%7EcKkXyL4PVNew7J-7aToAtM5cpp%7Evlp4bTnwZmC6XGaOxWdDw%7E%7EwdhSCHA7o0G-uxp6-C11VSl%7EG824YyOOJO6lV0ioN-ynrftEqqeKYwBAohqiLEJV6Auzmf8LVmK4o%7EC95zoiNq2lbX2Fsbes1Tw29ln5Frb%7EcDmlEX%7EUEZpePsdFU5IF1RotX2qoyEh3WSSGNv3xf7OtQw__",
+        "warehouse": "s3",
+        "isConvertedImage": true,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 532,
+          "height": 2213,
+          "size": 434055,
+          "obfuscated": false
+        },
+        "_id": "6522a2ee89a920064d409276",
+        "uploadedAt": "2023-10-08T12:39:10.364Z",
+        "updatedAt": "2023-10-08T12:39:10.364Z"
+      },
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/69b86be2-0687-442e-9ae7-7c1569df312e",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e9b1493c381b92dd32//d2ac1c4e-51b9-4f76-bb50-7e1fafcf5664?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=Gg1iyCDcAZCMCCwRpIJbh8xmF03Pg8XRP6L%7EbAwEXk6VXln4CAj3NLPuPR%7Em0j7SppCDW2rDyAAfaJIWpXhRhK%7EOjFpD49l5g6bGdkMTOjqQQJunZrkmz1YsA0MLC4jX6-C29B42IO22V23y%7EIbmN4TbVGCmk8Ex4rjs9LcJ65hC%7EshAtyeMvK%7EPW3bvUQR5nuTqiM9rn6Zu2uk-OUlZCC0PQsIFfjymYkpHWUcNY0IWXBFJNMzrp59LzXTd2nU%7EugyqSdrmZZLXmmFHs-aRC7m%7EztzZEf9rLasK7F7Pod2-pPYjRZNbGiCZzqccRwNZIUvclGX10UlGkwPRqI6wXw__",
+        "warehouse": "s3",
+        "isConvertedImage": false,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 532,
+          "height": 2213,
+          "size": 434055,
+          "obfuscated": false
+        },
+        "_id": "6522a2ee89a920064d409277",
+        "uploadedAt": "2023-10-08T12:39:10.364Z",
+        "updatedAt": "2023-10-08T12:39:10.364Z"
+      }
+    ],
+    "customer_review_status": "accepted",
+    "customer_review_comments": [
+      ""
+    ],
+    "prior_responses": [],
+    "response": {
+      "annotations": [
+        {
+          "uuid": "afa1fd0d-9fba-45e1-a3ae-1c7e0690e423",
+          "page": 0,
+          "label": "Unit 1 name",
+          "text": "NAPITAK MTV UP CLASS",
+          "location": {
+            "type": "box",
+            "left": 36.56357388316151,
+            "top": 431.4481619165634,
+            "width": 235.83505154639175,
+            "height": 38.391573729863694
+          },
+          "refs": []
+        },
+        {
+          "uuid": "25447a33-1b2f-4927-9f21-1cc2e877ea84",
+          "page": 0,
+          "label": "Unit 1 Price",
+          "text": "0,83",
+          "location": {
+            "type": "box",
+            "left": 423.680412371134,
+            "top": 436.7041511771995,
+            "width": 52.10309278350513,
+            "height": 25.365861214374206
+          },
+          "refs": [],
+          "money": {
+            "amount": "0.83",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "c179a73c-7920-44ca-b685-8c2a1afcfc22",
+          "page": 0,
+          "label": "Unit 2 name",
+          "text": "TIJESTO SPAGETTI 1/2",
+          "location": {
+            "type": "box",
+            "left": 36.33505154639175,
+            "top": 490.86369268897147,
+            "width": 242.69072164948454,
+            "height": 28.108116480793115
+          },
+          "refs": []
+        },
+        {
+          "uuid": "d82822a7-76d5-4a9f-b786-9711e9eb77bb",
+          "page": 0,
+          "label": "Unit 2 Price",
+          "text": "1,06",
+          "location": {
+            "type": "box",
+            "left": 421.62371134020617,
+            "top": 491.5492565055762,
+            "width": 56.21649484536084,
+            "height": 21.9380421313507
+          },
+          "refs": [],
+          "money": {
+            "amount": "1.06",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "6eb90d97-963e-4fb8-a491-aa07a3da6730",
+          "page": 0,
+          "label": "Total Amount",
+          "text": "1,89",
+          "location": {
+            "type": "box",
+            "left": 443.5618556701031,
+            "top": 944.021375464684,
+            "width": 59.64432989690721,
+            "height": 30.164807930607253
+          },
+          "refs": [],
+          "money": {
+            "amount": "1.89",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "fb7f40be-cbb0-4e29-8d37-b2fd70766e41",
+          "page": 0,
+          "label": "Store name",
+          "text": "KONZUM plus d.o.o.",
+          "location": {
+            "type": "box",
+            "left": 38.391752577319586,
+            "top": 169.33426270136306,
+            "width": 213.21134020618558,
+            "height": 23.309169764560096
+          },
+          "refs": []
+        },
+        {
+          "uuid": "75acca7d-642d-42c3-916f-133a8f15a8fd",
+          "page": 0,
+          "label": "Store address",
+          "text": "Zagreb, Ulica Marijana Čavića 1A",
+          "location": {
+            "type": "box",
+            "left": 38.940206185567014,
+            "top": 194.70012391573732,
+            "width": 372.40000000000003,
+            "height": 21.93804213135067
+          },
+          "refs": []
+        }
+      ],
+      "values": [],
+      "is_customer_fix": false
+    },
+    "unique_id": "6522a2e5f62ca7bf8f10adc2:65219b12d33a09e3fc51e0e4",
+    "nucleusLink": {
+      "datasetId": "ds_cmgsncx7ybvg4sbapew0",
+      "datasetItemId": "di_cmha420a20tg0680t50g"
+    },
+    "project_param_version": 1,
+    "customer_reviewed_by": "matejsarlija1@gmail.com",
+    "customer_audited_at": "2023-10-08T13:21:22.260Z",
+    "audits": [
+      {
+        "audited_by": "matejsarlija1@gmail.com",
+        "audited_at": "2023-10-08T13:21:22.260Z",
+        "audit_time_secs": 0,
+        "audit_active_time_secs": 0,
+        "audit_result": "accepted",
+        "audit_source": "customer"
+      }
+    ],
+    "document_pages": [
+      {
+        "url": "https://api.scale.com/v1/task/6522a2e9b1493c381b92dd32/response_url_c/s3/scale-us-attachments/6522a2e9b1493c381b92dd32%2Fjpeg%2F11f80510-ef4f-4931-9658-e3155f7e9f43",
+        "width": 532,
+        "height": 2213
+      }
+    ],
+    "batch": "batch_l945gr",
+    "batchId": "6522a2e5f62ca7bf8f10adc2",
+    "updated_at": "2023-10-08T13:21:23.637Z",
+    "work_started": true,
+    "document_was_queued_by_ml": false,
+    "customer_labeled": true,
+    "isEdgeCase": false,
+    "pipelineName": "standard_task",
+    "projectPipeline": "standard_task",
+    "responseHistory": [
+      {
+        "_id": "6522a2e9b1493c381b92dd32",
+        "response": {
+          "annotations": [
+            {
+              "uuid": "afa1fd0d-9fba-45e1-a3ae-1c7e0690e423",
+              "page": 0,
+              "label": "Unit 1 name",
+              "text": "NAPITAK MTV UP CLASS",
+              "location": {
+                "type": "box",
+                "left": 36.56357388316151,
+                "top": 431.4481619165634,
+                "width": 235.83505154639175,
+                "height": 38.391573729863694
+              },
+              "refs": []
+            },
+            {
+              "uuid": "25447a33-1b2f-4927-9f21-1cc2e877ea84",
+              "page": 0,
+              "label": "Unit 1 Price",
+              "text": "0,83",
+              "location": {
+                "type": "box",
+                "left": 423.680412371134,
+                "top": 436.7041511771995,
+                "width": 52.10309278350513,
+                "height": 25.365861214374206
+              },
+              "refs": [],
+              "money": {
+                "amount": "0.83",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "c179a73c-7920-44ca-b685-8c2a1afcfc22",
+              "page": 0,
+              "label": "Unit 2 name",
+              "text": "TIJESTO SPAGETTI 1/2",
+              "location": {
+                "type": "box",
+                "left": 36.33505154639175,
+                "top": 490.86369268897147,
+                "width": 242.69072164948454,
+                "height": 28.108116480793115
+              },
+              "refs": []
+            },
+            {
+              "uuid": "d82822a7-76d5-4a9f-b786-9711e9eb77bb",
+              "page": 0,
+              "label": "Unit 2 Price",
+              "text": "1,06",
+              "location": {
+                "type": "box",
+                "left": 421.62371134020617,
+                "top": 491.5492565055762,
+                "width": 56.21649484536084,
+                "height": 21.9380421313507
+              },
+              "refs": [],
+              "money": {
+                "amount": "1.06",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "6eb90d97-963e-4fb8-a491-aa07a3da6730",
+              "page": 0,
+              "label": "Total Amount",
+              "text": "1,89",
+              "location": {
+                "type": "box",
+                "left": 443.5618556701031,
+                "top": 944.021375464684,
+                "width": 59.64432989690721,
+                "height": 30.164807930607253
+              },
+              "refs": [],
+              "money": {
+                "amount": "1.89",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "fb7f40be-cbb0-4e29-8d37-b2fd70766e41",
+              "page": 0,
+              "label": "Store name",
+              "text": "KONZUM plus d.o.o.",
+              "location": {
+                "type": "box",
+                "left": 38.391752577319586,
+                "top": 169.33426270136306,
+                "width": 213.21134020618558,
+                "height": 23.309169764560096
+              },
+              "refs": []
+            },
+            {
+              "uuid": "75acca7d-642d-42c3-916f-133a8f15a8fd",
+              "page": 0,
+              "label": "Store address",
+              "text": "Zagreb, Ulica Marijana Čavića 1A",
+              "location": {
+                "type": "box",
+                "left": 38.940206185567014,
+                "top": 194.70012391573732,
+                "width": 372.40000000000003,
+                "height": 21.93804213135067
+              },
+              "refs": []
+            }
+          ],
+          "values": []
+        },
+        "source": "tasker",
+        "createdAt": "2023-10-08T13:11:38.195Z",
+        "fakeModelRetraining": false
+      }
+    ],
+    "hasLidarLite": false
+  },
+  {
+    "task_id": "6522a2e9b1493c381b92dd25",
+    "created_at": "2023-10-08T12:39:05.195Z",
+    "completed_at": "2023-10-08T13:11:36.332Z",
+    "type": "documenttranscription",
+    "status": "completed",
+    "instruction": " ",
+    "params": {
+      "features": [
+        {
+          "label": "Unit 1 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 1 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Unit 2 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 2 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Total Amount",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Store address",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Store name",
+          "type": "text",
+          "flags": []
+        }
+      ],
+      "fields": [],
+      "attachment_type": "image",
+      "attachments": [
+        "scaledata://6413387b009c446a440aea52/ab427359-8deb-4e14-836a-a62a862597f8"
+      ]
+    },
+    "is_test": false,
+    "urgency": "standard",
+    "metadata": {
+      "filename": "Konzum-93718-0347-2-2023_page-0001.jpg",
+      "upload_group_id": "2023-10-07 19:53:10",
+      "upload_source": "computer"
+    },
+    "processed_attachments": [],
+    "project": "Rapido",
+    "priority": 0,
+    "taxonomyVersion": "6522a1e0a1035490a5c8d7ea",
+    "attachmentS3Downloads": [
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/ab427359-8deb-4e14-836a-a62a862597f8",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e9b1493c381b92dd25/jpeg/30de6102-1b1c-4fd4-b617-a28765e7ee6a?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=C-8MmSxHeywOTCsDPCr94kpp4wU69skK1g57sTXkP77rPyOOCTabD3nIf-10l6UdmhZ%7ENNtCIYt1oYD8oMyX14%7EafuB0mZ8vbZwkVKN7LN6S7iC9aVdEfqtuEQu1mfrxrQ4591RZe4V4pofcsdh-nLEL-oz1pK1hbANXs3XDHFh3Cx0nGookkAoP9xVVVstucvUdKQ3OSG-zbx1arKn2BqLrQJm0zL6A%7ET9blOMP83utvaY3LcNI0zMEWEjAUtOOVD8XPvVErSoxhCFuPlDwlnKzAnuHpupg1e6IxEzJZxxTn8DRDfrQcLhNcIiWI-lr3M2rlg0nnx8eiovavYmWVg__",
+        "warehouse": "s3",
+        "isConvertedImage": true,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 532,
+          "height": 2128,
+          "size": 421747,
+          "obfuscated": false
+        },
+        "_id": "6522a2ee77f7de9403317c50",
+        "uploadedAt": "2023-10-08T12:39:10.128Z",
+        "updatedAt": "2023-10-08T12:39:10.128Z"
+      },
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/ab427359-8deb-4e14-836a-a62a862597f8",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e9b1493c381b92dd25//77aba241-edbe-4a0d-b100-843ebe20a910?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=JI3J1YPgpKWOEsImYu0XFj4ijWSoeWZOuQbGqzIjSDUU7iPtaVGMw95As41Uzjom5iYCYBYIFeNql9uW1OnuYQIcBiG016MrVsyQ2242PoQfwxscRdgzUBv35HL5vCtvv5oPdj3WMNKYc6IWSL0lys1jj5J4BkUJ00bHyTO4BBiI8s3ha6LEWatQBXZ5x%7E8ugnfU5mz1o90P8m0XkbbMQXKTbdN1hUy7Z8wsUCiRIXpJCAu%7EdC1m5uO1zkDgowWr0pyRwPzV4CyaPQgzFti8-QjPqJt0SKgfcYTAE62Bh4KlxtNGjrfiKA1iYweL87BeKXjFJWCkQvhS8KAMlb1ByQ__",
+        "warehouse": "s3",
+        "isConvertedImage": false,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 532,
+          "height": 2128,
+          "size": 421747,
+          "obfuscated": false
+        },
+        "_id": "6522a2ee77f7de9403317c51",
+        "uploadedAt": "2023-10-08T12:39:10.128Z",
+        "updatedAt": "2023-10-08T12:39:10.128Z"
+      }
+    ],
+    "customer_review_status": "accepted",
+    "customer_review_comments": [
+      ""
+    ],
+    "prior_responses": [],
+    "response": {
+      "annotations": [
+        {
+          "uuid": "1eb24078-ab68-43d5-b17b-9b1c99a6e271",
+          "page": 0,
+          "label": "Store name",
+          "text": "KONZUM plus d.o.o.",
+          "location": {
+            "type": "box",
+            "left": 37.811570247933886,
+            "top": 166.1263940520446,
+            "width": 221.59338842975205,
+            "height": 28.127220156959936
+          },
+          "refs": []
+        },
+        {
+          "uuid": "4c49bce9-0c53-4835-877c-35cc8bc5de07",
+          "page": 0,
+          "label": "Store address",
+          "text": "Lipik, Trg Kralja Tomislava 6-8",
+          "location": {
+            "type": "box",
+            "left": 37.811570247933886,
+            "top": 268.96654275092936,
+            "width": 370.201652892562,
+            "height": 25.49029326724491
+          },
+          "refs": []
+        },
+        {
+          "uuid": "f5995a2c-2e79-4e13-9375-680c6a9a77f1",
+          "page": 0,
+          "label": "Unit 1 name",
+          "text": "BISKVI MILKA ČOK 12",
+          "location": {
+            "type": "box",
+            "left": 40.21313506815366,
+            "top": 434.4337050805453,
+            "width": 230.73110285006194,
+            "height": 30.98389095415115
+          },
+          "refs": []
+        },
+        {
+          "uuid": "2f1ae660-7f7a-4f4e-a48f-fc241ccefa19",
+          "page": 0,
+          "label": "Unit 1 Price",
+          "text": "0,99",
+          "location": {
+            "type": "box",
+            "left": 421.90830235439904,
+            "top": 437.07063197026025,
+            "width": 53.3977695167286,
+            "height": 23.732342007434966
+          },
+          "refs": [],
+          "money": {
+            "amount": "0.99",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "d2bb7aba-8909-4179-8c17-d62b0a2eea08",
+          "page": 0,
+          "label": "Unit 2 name",
+          "text": "BANANA",
+          "location": {
+            "type": "box",
+            "left": 39.01684836471754,
+            "top": 515.2555142503098,
+            "width": 87.52428146679881,
+            "height": 27.951425030978953
+          },
+          "refs": []
+        },
+        {
+          "uuid": "7ecac132-cc3e-4d1b-9b80-dd7c6f86a0c2",
+          "page": 0,
+          "label": "Unit 2 Price",
+          "text": "0,72",
+          "location": {
+            "type": "box",
+            "left": 420.7492566897918,
+            "top": 515.2555142503098,
+            "width": 56.41625371655107,
+            "height": 24.78711276332092
+          },
+          "refs": [],
+          "money": {
+            "amount": "0.72",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "e0ba8326-cdb8-409b-88d2-b6117676dea3",
+          "page": 0,
+          "label": "Total Amount",
+          "text": "1,71",
+          "location": {
+            "type": "box",
+            "left": 444.47571853320113,
+            "top": 595.4180916976457,
+            "width": 59.579781962338984,
+            "height": 24.78711276332092
+          },
+          "refs": [],
+          "money": {
+            "amount": "1.71",
+            "parsed": true
+          }
+        }
+      ],
+      "values": [],
+      "is_customer_fix": false
+    },
+    "unique_id": "6522a2e5f62ca7bf8f10adc2:65219b125962c0d9b692b0c1",
+    "nucleusLink": {
+      "datasetId": "ds_cmgsncx7ybvg4sbapew0",
+      "datasetItemId": "di_cmha420a20tg0680t4zg"
+    },
+    "project_param_version": 1,
+    "customer_reviewed_by": "matejsarlija1@gmail.com",
+    "customer_audited_at": "2023-10-08T13:21:25.856Z",
+    "audits": [
+      {
+        "audited_by": "matejsarlija1@gmail.com",
+        "audited_at": "2023-10-08T13:21:25.856Z",
+        "audit_time_secs": 0,
+        "audit_active_time_secs": 0,
+        "audit_result": "accepted",
+        "audit_source": "customer"
+      }
+    ],
+    "document_pages": [
+      {
+        "url": "https://api.scale.com/v1/task/6522a2e9b1493c381b92dd25/response_url_c/s3/scale-us-attachments/6522a2e9b1493c381b92dd25%2Fjpeg%2F30de6102-1b1c-4fd4-b617-a28765e7ee6a",
+        "width": 532,
+        "height": 2128
+      }
+    ],
+    "batch": "batch_l945gr",
+    "batchId": "6522a2e5f62ca7bf8f10adc2",
+    "updated_at": "2023-10-08T13:22:58.052Z",
+    "work_started": true,
+    "document_was_queued_by_ml": false,
+    "customer_labeled": true,
+    "isEdgeCase": false,
+    "pipelineName": "standard_task",
+    "projectPipeline": "standard_task",
+    "responseHistory": [
+      {
+        "_id": "6522a2e9b1493c381b92dd25",
+        "response": {
+          "annotations": [
+            {
+              "uuid": "1eb24078-ab68-43d5-b17b-9b1c99a6e271",
+              "page": 0,
+              "label": "Store name",
+              "text": "KONZUM plus d.o.o.",
+              "location": {
+                "type": "box",
+                "left": 37.811570247933886,
+                "top": 166.1263940520446,
+                "width": 221.59338842975205,
+                "height": 28.127220156959936
+              },
+              "refs": []
+            },
+            {
+              "uuid": "4c49bce9-0c53-4835-877c-35cc8bc5de07",
+              "page": 0,
+              "label": "Store address",
+              "text": "Lipik, Trg Kralja Tomislava 6-8",
+              "location": {
+                "type": "box",
+                "left": 37.811570247933886,
+                "top": 268.96654275092936,
+                "width": 370.201652892562,
+                "height": 25.49029326724491
+              },
+              "refs": []
+            },
+            {
+              "uuid": "f5995a2c-2e79-4e13-9375-680c6a9a77f1",
+              "page": 0,
+              "label": "Unit 1 name",
+              "text": "BISKVI MILKA ČOK 12",
+              "location": {
+                "type": "box",
+                "left": 40.21313506815366,
+                "top": 434.4337050805453,
+                "width": 230.73110285006194,
+                "height": 30.98389095415115
+              },
+              "refs": []
+            },
+            {
+              "uuid": "2f1ae660-7f7a-4f4e-a48f-fc241ccefa19",
+              "page": 0,
+              "label": "Unit 1 Price",
+              "text": "0,99",
+              "location": {
+                "type": "box",
+                "left": 421.90830235439904,
+                "top": 437.07063197026025,
+                "width": 53.3977695167286,
+                "height": 23.732342007434966
+              },
+              "refs": [],
+              "money": {
+                "amount": "0.99",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "d2bb7aba-8909-4179-8c17-d62b0a2eea08",
+              "page": 0,
+              "label": "Unit 2 name",
+              "text": "BANANA",
+              "location": {
+                "type": "box",
+                "left": 39.01684836471754,
+                "top": 515.2555142503098,
+                "width": 87.52428146679881,
+                "height": 27.951425030978953
+              },
+              "refs": []
+            },
+            {
+              "uuid": "7ecac132-cc3e-4d1b-9b80-dd7c6f86a0c2",
+              "page": 0,
+              "label": "Unit 2 Price",
+              "text": "0,72",
+              "location": {
+                "type": "box",
+                "left": 420.7492566897918,
+                "top": 515.2555142503098,
+                "width": 56.41625371655107,
+                "height": 24.78711276332092
+              },
+              "refs": [],
+              "money": {
+                "amount": "0.72",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "e0ba8326-cdb8-409b-88d2-b6117676dea3",
+              "page": 0,
+              "label": "Total Amount",
+              "text": "1,71",
+              "location": {
+                "type": "box",
+                "left": 444.47571853320113,
+                "top": 595.4180916976457,
+                "width": 59.579781962338984,
+                "height": 24.78711276332092
+              },
+              "refs": [],
+              "money": {
+                "amount": "1.71",
+                "parsed": true
+              }
+            }
+          ],
+          "values": []
+        },
+        "source": "tasker",
+        "createdAt": "2023-10-08T13:11:36.332Z",
+        "fakeModelRetraining": false
+      }
+    ],
+    "hasLidarLite": false
+  },
+  {
+    "task_id": "6522a2e9b1493c381b92dd23",
+    "created_at": "2023-10-08T12:39:05.189Z",
+    "completed_at": "2023-10-08T13:07:46.928Z",
+    "type": "documenttranscription",
+    "status": "completed",
+    "instruction": " ",
+    "params": {
+      "features": [
+        {
+          "label": "Unit 1 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 1 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Unit 2 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 2 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Total Amount",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Store address",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Store name",
+          "type": "text",
+          "flags": []
+        }
+      ],
+      "fields": [],
+      "attachment_type": "image",
+      "attachments": [
+        "scaledata://6413387b009c446a440aea52/7bdceaff-1ab2-4fab-a08f-c3eea2516a9a"
+      ]
+    },
+    "is_test": false,
+    "urgency": "standard",
+    "metadata": {
+      "filename": "Konzum-115016-3235-1-2023_page-0001.jpg",
+      "upload_group_id": "2023-10-07 19:53:10",
+      "upload_source": "computer"
+    },
+    "processed_attachments": [],
+    "project": "Rapido",
+    "priority": 0,
+    "taxonomyVersion": "6522a1e0a1035490a5c8d7ea",
+    "attachmentS3Downloads": [
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/7bdceaff-1ab2-4fab-a08f-c3eea2516a9a",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e9b1493c381b92dd23/jpeg/189bb96f-074b-44ef-bd1f-fd160cb27da2?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=hOI0sC2oluuPhEOdUCrY2GI71eY39TeZS2Qe4ztJu81oyyN4ketDD53GDgCSNfsOFg3-CYm4kUzMIPhwqzv-2ODkmDJy-2cAFp2ODISK5lgBF0ySmESh%7E0xPj7Lo4E7aD1hryI6nEBG5TPmiVv2mYe9qWuvHiTGSTPGXczTHUHy50UNRCipue1WGBwp8-643joEjuXO-udHYdfHCNKz69jdCJzGA8MEsW1pUAyvgg9Z4gvmazhnTr4nxSvCRW2nBajypBSs1yel5bixedbj4mODFu296RC2w796tHOa0d9XTEqWb8YfezmEfZidxo4rvWnyNAe%7EAhXM5x9zlkBrofg__",
+        "warehouse": "s3",
+        "isConvertedImage": true,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 532,
+          "height": 2492,
+          "size": 508340,
+          "obfuscated": false
+        },
+        "_id": "6522a2ececa551f726cd8ccb",
+        "uploadedAt": "2023-10-08T12:39:08.762Z",
+        "updatedAt": "2023-10-08T12:39:08.762Z"
+      },
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/7bdceaff-1ab2-4fab-a08f-c3eea2516a9a",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e9b1493c381b92dd23//e1138ec1-7080-446d-a5e3-41d8aa9c254c?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=fqKkSvxdFTikKSwgxiTCtD-JjFgOD8KLVSNXACvDz33pTqi6AbvakNqWEt1WmSRLWeB3xQgk7xse1wSaNrsiDfITdY5ZrNYVxI-hnqq4ATbjvXBARyp7S7hgDsizZCLYBAFf%7EgaYzi1rPqmTr0IptjnpXkggfbViz5iQ82zUmMcBHIGLEc1VbeFH67ICL22lsat9ZKxN4UtTUGe-r3zSlT44Yd3lmY-HEFcv4FFeYki92ies6iMucmo9IN0KROA4Y4cU3coTAFUVznLEElDNLM3Y2RT3YPZlfQPTg6BOb9AuX%7Ev4hdjpNYciAdP3dxUDH43N0FZJEt0GGdgn2C6BbQ__",
+        "warehouse": "s3",
+        "isConvertedImage": false,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 532,
+          "height": 2492,
+          "size": 508340,
+          "obfuscated": false
+        },
+        "_id": "6522a2ececa551f726cd8ccc",
+        "uploadedAt": "2023-10-08T12:39:08.762Z",
+        "updatedAt": "2023-10-08T12:39:08.762Z"
+      }
+    ],
+    "customer_review_status": "accepted",
+    "customer_review_comments": [
+      ""
+    ],
+    "prior_responses": [],
+    "response": {
+      "annotations": [
+        {
+          "uuid": "168e7aff-feec-4b64-af1d-3895fea5e614",
+          "page": 0,
+          "label": "Store name",
+          "text": "KONZUM plus d.o.o.",
+          "location": {
+            "type": "box",
+            "left": 34.98646034816248,
+            "top": 165.72160264353573,
+            "width": 214.03481624758223,
+            "height": 26.76249483684427
+          },
+          "refs": []
+        },
+        {
+          "uuid": "7c806ab2-2d5f-4908-b1e0-8471cd23c69e",
+          "page": 0,
+          "label": "Store address",
+          "text": "POZEGA, KAMENITA VRATA 4",
+          "location": {
+            "type": "box",
+            "left": 38.073500967117994,
+            "top": 266.5956216439488,
+            "width": 299.44294003868475,
+            "height": 32.938455183808344
+          },
+          "refs": []
+        },
+        {
+          "uuid": "4216ea25-3b48-47e2-ae77-915dbd869159",
+          "page": 0,
+          "label": "Unit 1 name",
+          "text": "SIR TILZIT 45% VI",
+          "location": {
+            "type": "box",
+            "left": 36.015473887814316,
+            "top": 437.4638579099546,
+            "width": 204.7736943907157,
+            "height": 24.703841387856244
+          },
+          "refs": []
+        },
+        {
+          "uuid": "c74a87a9-8477-4124-9e84-717c239b4627",
+          "page": 0,
+          "label": "Unit 1 Price",
+          "text": "1,54",
+          "location": {
+            "type": "box",
+            "left": 423.9535783365571,
+            "top": 438.4931846344486,
+            "width": 53.50870406189557,
+            "height": 21.615861214374206
+          },
+          "refs": [],
+          "money": {
+            "amount": "1.54",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "fc70cbf5-2ae7-42af-80f3-6ecb277090bb",
+          "page": 0,
+          "label": "Unit 2 name",
+          "text": "ŠUNKA U OVITKU GA",
+          "location": {
+            "type": "box",
+            "left": 37.04448742746615,
+            "top": 514.6633622470054,
+            "width": 206.83172147001937,
+            "height": 30.879801734820376
+          },
+          "refs": []
+        },
+        {
+          "uuid": "64a1492c-b261-43fe-a3f3-f7d19c814ed8",
+          "page": 0,
+          "label": "Unit 2 Price",
+          "text": "1,17",
+          "location": {
+            "type": "box",
+            "left": 423.1291727140784,
+            "top": 515.6926889714994,
+            "width": 54.82148040638606,
+            "height": 24.7038413878563
+          },
+          "refs": [],
+          "money": {
+            "amount": "1.17",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "21852972-f0fb-4462-8cf6-378686a9f6fb",
+          "page": 0,
+          "label": "Total Amount",
+          "text": "7,91",
+          "location": {
+            "type": "box",
+            "left": 442.43251088534106,
+            "top": 1181.1524163568774,
+            "width": 59.45428156748909,
+            "height": 30.107806691449696
+          },
+          "refs": [],
+          "money": {
+            "amount": "7.91",
+            "parsed": true
+          }
+        }
+      ],
+      "values": [],
+      "is_customer_fix": false
+    },
+    "unique_id": "6522a2e5f62ca7bf8f10adc2:65219b1258f8d828e5eae922",
+    "nucleusLink": {
+      "datasetId": "ds_cmgsncx7ybvg4sbapew0",
+      "datasetItemId": "di_cmha420a20tg0680t4z0"
+    },
+    "project_param_version": 1,
+    "customer_reviewed_by": "matejsarlija1@gmail.com",
+    "customer_audited_at": "2023-10-08T13:21:29.592Z",
+    "audits": [
+      {
+        "audited_by": "matejsarlija1@gmail.com",
+        "audited_at": "2023-10-08T13:21:29.592Z",
+        "audit_time_secs": 0,
+        "audit_active_time_secs": 0,
+        "audit_result": "accepted",
+        "audit_source": "customer"
+      }
+    ],
+    "document_pages": [
+      {
+        "url": "https://api.scale.com/v1/task/6522a2e9b1493c381b92dd23/response_url_c/s3/scale-us-attachments/6522a2e9b1493c381b92dd23%2Fjpeg%2F189bb96f-074b-44ef-bd1f-fd160cb27da2",
+        "width": 532,
+        "height": 2492
+      }
+    ],
+    "batch": "batch_l945gr",
+    "batchId": "6522a2e5f62ca7bf8f10adc2",
+    "updated_at": "2023-10-08T13:21:31.283Z",
+    "work_started": true,
+    "document_was_queued_by_ml": false,
+    "customer_labeled": true,
+    "isEdgeCase": false,
+    "pipelineName": "standard_task",
+    "projectPipeline": "standard_task",
+    "responseHistory": [
+      {
+        "_id": "6522a2e9b1493c381b92dd23",
+        "response": {
+          "annotations": [
+            {
+              "uuid": "168e7aff-feec-4b64-af1d-3895fea5e614",
+              "page": 0,
+              "label": "Store name",
+              "text": "KONZUM plus d.o.o.",
+              "location": {
+                "type": "box",
+                "left": 34.98646034816248,
+                "top": 165.72160264353573,
+                "width": 214.03481624758223,
+                "height": 26.76249483684427
+              },
+              "refs": []
+            },
+            {
+              "uuid": "7c806ab2-2d5f-4908-b1e0-8471cd23c69e",
+              "page": 0,
+              "label": "Store address",
+              "text": "POZEGA, KAMENITA VRATA 4",
+              "location": {
+                "type": "box",
+                "left": 38.073500967117994,
+                "top": 266.5956216439488,
+                "width": 299.44294003868475,
+                "height": 32.938455183808344
+              },
+              "refs": []
+            },
+            {
+              "uuid": "4216ea25-3b48-47e2-ae77-915dbd869159",
+              "page": 0,
+              "label": "Unit 1 name",
+              "text": "SIR TILZIT 45% VI",
+              "location": {
+                "type": "box",
+                "left": 36.015473887814316,
+                "top": 437.4638579099546,
+                "width": 204.7736943907157,
+                "height": 24.703841387856244
+              },
+              "refs": []
+            },
+            {
+              "uuid": "c74a87a9-8477-4124-9e84-717c239b4627",
+              "page": 0,
+              "label": "Unit 1 Price",
+              "text": "1,54",
+              "location": {
+                "type": "box",
+                "left": 423.9535783365571,
+                "top": 438.4931846344486,
+                "width": 53.50870406189557,
+                "height": 21.615861214374206
+              },
+              "refs": [],
+              "money": {
+                "amount": "1.54",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "fc70cbf5-2ae7-42af-80f3-6ecb277090bb",
+              "page": 0,
+              "label": "Unit 2 name",
+              "text": "ŠUNKA U OVITKU GA",
+              "location": {
+                "type": "box",
+                "left": 37.04448742746615,
+                "top": 514.6633622470054,
+                "width": 206.83172147001937,
+                "height": 30.879801734820376
+              },
+              "refs": []
+            },
+            {
+              "uuid": "64a1492c-b261-43fe-a3f3-f7d19c814ed8",
+              "page": 0,
+              "label": "Unit 2 Price",
+              "text": "1,17",
+              "location": {
+                "type": "box",
+                "left": 423.1291727140784,
+                "top": 515.6926889714994,
+                "width": 54.82148040638606,
+                "height": 24.7038413878563
+              },
+              "refs": [],
+              "money": {
+                "amount": "1.17",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "21852972-f0fb-4462-8cf6-378686a9f6fb",
+              "page": 0,
+              "label": "Total Amount",
+              "text": "7,91",
+              "location": {
+                "type": "box",
+                "left": 442.43251088534106,
+                "top": 1181.1524163568774,
+                "width": 59.45428156748909,
+                "height": 30.107806691449696
+              },
+              "refs": [],
+              "money": {
+                "amount": "7.91",
+                "parsed": true
+              }
+            }
+          ],
+          "values": []
+        },
+        "source": "tasker",
+        "createdAt": "2023-10-08T13:07:46.928Z",
+        "fakeModelRetraining": false
+      }
+    ],
+    "hasLidarLite": false
+  },
+  {
+    "task_id": "6522a2e9b1493c381b92dd2b",
+    "created_at": "2023-10-08T12:39:05.199Z",
+    "completed_at": "2023-10-08T13:05:45.489Z",
+    "type": "documenttranscription",
+    "status": "completed",
+    "instruction": " ",
+    "params": {
+      "features": [
+        {
+          "label": "Unit 1 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 1 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Unit 2 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 2 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Total Amount",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Store address",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Store name",
+          "type": "text",
+          "flags": []
+        }
+      ],
+      "fields": [],
+      "attachment_type": "image",
+      "attachments": [
+        "scaledata://6413387b009c446a440aea52/9234ba7a-2353-4b1e-b4c0-b7f5545412f7"
+      ]
+    },
+    "is_test": false,
+    "urgency": "standard",
+    "metadata": {
+      "filename": "Konzum-93817-0347-2-2023_page-0001.jpg",
+      "upload_group_id": "2023-10-07 19:53:10",
+      "upload_source": "computer"
+    },
+    "processed_attachments": [],
+    "project": "Rapido",
+    "priority": 0,
+    "taxonomyVersion": "6522a1e0a1035490a5c8d7ea",
+    "attachmentS3Downloads": [
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/9234ba7a-2353-4b1e-b4c0-b7f5545412f7",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e9b1493c381b92dd2b/jpeg/00af4507-1a58-46fb-91f9-571941951321?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=cG6Ta7Hl0FhACxYw0y2TfVY5nIuZFWjbXrvp6Uc2Sl7c6GenKQeejcuF-B7zK328k2uch0cUzfucRPcbCepxSkYuzQnjDloMtVvLyfReKP4DnHKApz2An5rwFbK55YKIZ14Mpxw%7EexHFq7sVwE0aWe1zpHuU1y6Ea3f5vrHJhyk04Lwb3w1ZiIarsI0B41MM%7EB68%7E6Gquxn9knIVAEle9CS1tIPOGw9DdCWuB-Sk8eoZzWGU-CqyLO9O4fK0IBUD3wWUO6JSV0XWMq6u7g-FUpjUSaWpXbQYKr9Z6ERCbnCIl4O6RblOGSkHMkCqztAZ-UPrFxE6E2MPz4Nh-5gzBw__",
+        "warehouse": "s3",
+        "isConvertedImage": true,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 532,
+          "height": 1511,
+          "size": 277780,
+          "obfuscated": false
+        },
+        "_id": "6522a2ebb90b1e9651988cf8",
+        "uploadedAt": "2023-10-08T12:39:07.949Z",
+        "updatedAt": "2023-10-08T12:39:07.949Z"
+      },
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/9234ba7a-2353-4b1e-b4c0-b7f5545412f7",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e9b1493c381b92dd2b//87d67ba3-b0b9-4bd2-b451-2d41c61059ea?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=B0D9L%7EuNCTEUdbsgpiDZ6hsCMrRGQK8DZiyDgfHCtWSHzKufkg6gAGRQFK1jMc%7ENf6HcRyT8GBaSRpuc0-9iyPIL1C3rLA9GjnlnawpBSWnKcYMF%7E82mB9D1LxjnNh683fx0Ja0-xhJ2skVym39ZtyrwIGM2HU2QPtH%7EI4GK%7EgfljmDrt2psjLjZWmevY73%7EOh%7EcztRj4eUfPNZhIBfkY3w3ibml6hmh0nE-tiiHBbWYPxUB0Fm7wfqw47eollNp59rINPIF9pXM5jdQZeyir82Hn0INOQhghNeX80WCBJb5BmdLwBgXEAq6Jg4OJoZOS97xeuBqG1XGRaroog%7E-ow__",
+        "warehouse": "s3",
+        "isConvertedImage": false,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 532,
+          "height": 1511,
+          "size": 277780,
+          "obfuscated": false
+        },
+        "_id": "6522a2ebb90b1e9651988cf9",
+        "uploadedAt": "2023-10-08T12:39:07.949Z",
+        "updatedAt": "2023-10-08T12:39:07.949Z"
+      }
+    ],
+    "customer_review_status": "accepted",
+    "customer_review_comments": [
+      ""
+    ],
+    "prior_responses": [],
+    "response": {
+      "annotations": [
+        {
+          "uuid": "b1fd6dfb-ae2f-4770-8088-5d8a01b67697",
+          "page": 0,
+          "label": "Store name",
+          "text": "KONZUM plus d.o.o.",
+          "location": {
+            "type": "box",
+            "left": 38.401408450704224,
+            "top": 165.70446096654274,
+            "width": 233.2183098591549,
+            "height": 29.02168525402726
+          },
+          "refs": []
+        },
+        {
+          "uuid": "8490310f-aeb1-45bc-a6e5-1f3d0756f3e3",
+          "page": 0,
+          "label": "Store address",
+          "text": "Lipik, Trg Kralja Tomislava 6-8",
+          "location": {
+            "type": "box",
+            "left": 37.46478873239437,
+            "top": 267.74845105328376,
+            "width": 381.20422535211264,
+            "height": 26.21313506815369
+          },
+          "refs": []
+        },
+        {
+          "uuid": "5e5585c9-fa5c-4fa4-9edf-2979f8399be6",
+          "page": 0,
+          "label": "Unit 1 name",
+          "text": "KRASTAVAC SALATNI",
+          "location": {
+            "type": "box",
+            "left": 42.147887323943664,
+            "top": 436.2614622057001,
+            "width": 206.99295774647885,
+            "height": 26.213135068153633
+          },
+          "refs": []
+        },
+        {
+          "uuid": "dcdae2a6-654b-4e99-8483-23809922f641",
+          "page": 0,
+          "label": "Unit 1 Price",
+          "text": "0,69",
+          "location": {
+            "type": "box",
+            "left": 419.6056338028169,
+            "top": 435.3252788104089,
+            "width": 55.26056338028167,
+            "height": 26.213135068153633
+          },
+          "refs": [],
+          "money": {
+            "amount": "0.69",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "be379bdc-c11c-4763-8c0b-9993ba46c3a8",
+          "page": 0,
+          "label": "Total Amount",
+          "text": "0,69",
+          "location": {
+            "type": "box",
+            "left": 443.0211267605634,
+            "top": 782.6493184634448,
+            "width": 60.880281690140805,
+            "height": 29.95786864931847
+          },
+          "refs": [],
+          "money": {
+            "amount": "0.69",
+            "parsed": true
+          }
+        }
+      ],
+      "values": [],
+      "is_customer_fix": false
+    },
+    "unique_id": "6522a2e5f62ca7bf8f10adc2:65219b12cfa48a74022f4266",
+    "nucleusLink": {
+      "datasetId": "ds_cmgsncx7ybvg4sbapew0",
+      "datasetItemId": "di_cmha420a20tg0680t500"
+    },
+    "project_param_version": 1,
+    "customer_reviewed_by": "matejsarlija1@gmail.com",
+    "customer_audited_at": "2023-10-08T13:21:32.661Z",
+    "audits": [
+      {
+        "audited_by": "matejsarlija1@gmail.com",
+        "audited_at": "2023-10-08T13:21:32.661Z",
+        "audit_time_secs": 0,
+        "audit_active_time_secs": 0,
+        "audit_result": "accepted",
+        "audit_source": "customer"
+      }
+    ],
+    "document_pages": [
+      {
+        "url": "https://api.scale.com/v1/task/6522a2e9b1493c381b92dd2b/response_url_c/s3/scale-us-attachments/6522a2e9b1493c381b92dd2b%2Fjpeg%2F00af4507-1a58-46fb-91f9-571941951321",
+        "width": 532,
+        "height": 1511
+      }
+    ],
+    "batch": "batch_l945gr",
+    "batchId": "6522a2e5f62ca7bf8f10adc2",
+    "updated_at": "2023-10-08T13:21:34.102Z",
+    "work_started": true,
+    "document_was_queued_by_ml": false,
+    "customer_labeled": true,
+    "isEdgeCase": false,
+    "pipelineName": "standard_task",
+    "projectPipeline": "standard_task",
+    "responseHistory": [
+      {
+        "_id": "6522a2e9b1493c381b92dd2b",
+        "response": {
+          "annotations": [
+            {
+              "uuid": "b1fd6dfb-ae2f-4770-8088-5d8a01b67697",
+              "page": 0,
+              "label": "Store name",
+              "text": "KONZUM plus d.o.o.",
+              "location": {
+                "type": "box",
+                "left": 38.401408450704224,
+                "top": 165.70446096654274,
+                "width": 233.2183098591549,
+                "height": 29.02168525402726
+              },
+              "refs": []
+            },
+            {
+              "uuid": "8490310f-aeb1-45bc-a6e5-1f3d0756f3e3",
+              "page": 0,
+              "label": "Store address",
+              "text": "Lipik, Trg Kralja Tomislava 6-8",
+              "location": {
+                "type": "box",
+                "left": 37.46478873239437,
+                "top": 267.74845105328376,
+                "width": 381.20422535211264,
+                "height": 26.21313506815369
+              },
+              "refs": []
+            },
+            {
+              "uuid": "5e5585c9-fa5c-4fa4-9edf-2979f8399be6",
+              "page": 0,
+              "label": "Unit 1 name",
+              "text": "KRASTAVAC SALATNI",
+              "location": {
+                "type": "box",
+                "left": 42.147887323943664,
+                "top": 436.2614622057001,
+                "width": 206.99295774647885,
+                "height": 26.213135068153633
+              },
+              "refs": []
+            },
+            {
+              "uuid": "dcdae2a6-654b-4e99-8483-23809922f641",
+              "page": 0,
+              "label": "Unit 1 Price",
+              "text": "0,69",
+              "location": {
+                "type": "box",
+                "left": 419.6056338028169,
+                "top": 435.3252788104089,
+                "width": 55.26056338028167,
+                "height": 26.213135068153633
+              },
+              "refs": [],
+              "money": {
+                "amount": "0.69",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "be379bdc-c11c-4763-8c0b-9993ba46c3a8",
+              "page": 0,
+              "label": "Total Amount",
+              "text": "0,69",
+              "location": {
+                "type": "box",
+                "left": 443.0211267605634,
+                "top": 782.6493184634448,
+                "width": 60.880281690140805,
+                "height": 29.95786864931847
+              },
+              "refs": [],
+              "money": {
+                "amount": "0.69",
+                "parsed": true
+              }
+            }
+          ],
+          "values": []
+        },
+        "source": "tasker",
+        "createdAt": "2023-10-08T13:05:45.489Z",
+        "fakeModelRetraining": false
+      }
+    ],
+    "hasLidarLite": false
+  },
+  {
+    "task_id": "6522a2e6b1493c381b92da9a",
+    "created_at": "2023-10-08T12:39:03.096Z",
+    "completed_at": "2023-10-08T13:04:13.214Z",
+    "type": "documenttranscription",
+    "status": "completed",
+    "instruction": " ",
+    "params": {
+      "features": [
+        {
+          "label": "Unit 1 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 1 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Unit 2 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 2 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Total Amount",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Store address",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Store name",
+          "type": "text",
+          "flags": []
+        }
+      ],
+      "fields": [],
+      "attachment_type": "image",
+      "attachments": [
+        "scaledata://6413387b009c446a440aea52/accca63a-fcdb-47b2-8570-1bd5c030dea5"
+      ]
+    },
+    "is_test": false,
+    "urgency": "standard",
+    "metadata": {
+      "filename": "Adobe Scan Oct 01, 2023 (1)_6.jpg",
+      "upload_group_id": "2023-10-07 19:53:10",
+      "upload_source": "computer"
+    },
+    "processed_attachments": [],
+    "project": "Rapido",
+    "priority": 0,
+    "taxonomyVersion": "6522a1e0a1035490a5c8d7ea",
+    "attachmentS3Downloads": [
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/accca63a-fcdb-47b2-8570-1bd5c030dea5",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e6b1493c381b92da9a/jpeg/251d3df2-82b7-40b7-90da-c78674ad470c?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=gA%7E5iPUrYEsyzdzHn%7Eqj7RH-qOQgYTsQwSm-ObinfCCNE0NgShh2047IIJJI2I74GitoVHSrrqbnt1LR0vWqZ2aC18mT8gXPs5X0lyl8L3ZlwsqdTEOaugllDekVMKyb1P7OjztjOMSWemVPZj1PhUiErVdjrj9%7E6x3Tx57OK5ZkKGhAZi6%7E5S2TdX053dlJmghYLVV7-i8rh3YRjJpeAdZdRpGvUcuLYCqnMN27LFPDHeecWa52g4BCb5GsBXTfYh2WOsJLyi2Knsq41%7EGpdM3jmE%7E8%7EFBqRrMy4njitdaxzVLMMKisfaBbdG%7ELDzMuW9kaLoWN1vpKKOB8j7DNgw__",
+        "warehouse": "s3",
+        "isConvertedImage": true,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 837,
+          "height": 2200,
+          "size": 230747,
+          "obfuscated": false
+        },
+        "_id": "6522a2eb49b7e64ed044c26f",
+        "uploadedAt": "2023-10-08T12:39:07.862Z",
+        "updatedAt": "2023-10-08T12:39:07.862Z"
+      },
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/accca63a-fcdb-47b2-8570-1bd5c030dea5",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e6b1493c381b92da9a//9081e2eb-238f-42ce-b431-68e6b56a0c73?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=mTRnDkLGeDdxssXOQPNJ7fqROPyXl0pc486-x%7E2nhv-2U0Yp8ZtiKlMXKpGGFPr3yRZx3h4ve4lgMl6ZtYIZQbD0FKgsi6A%7E51E57iV05bI0xa51MPra0bkFnugztL3L3NXIKyanBkoXqsR9Lde5J-EmH82U2b5C7hmS3T%7EeMlDtHJn0iXKC7vrP6Fy0JIkkW3xNvF9YKnXMryJlhstBjaQ7kwg-sS3EcD7Iv6V%7EpOmWZq-4hBvC5ykU6huKzB1aJilsj%7EZWrAv9hfrw1VqkCEo-88ZX9dyuTUhOcWU3FmIKwyo9VRURNDflc7SRGcQ-f-37tAGZUqQTXo1Wazs3zQ__",
+        "warehouse": "s3",
+        "isConvertedImage": false,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 837,
+          "height": 2200,
+          "size": 230747,
+          "obfuscated": false
+        },
+        "_id": "6522a2eb49b7e64ed044c270",
+        "uploadedAt": "2023-10-08T12:39:07.862Z",
+        "updatedAt": "2023-10-08T12:39:07.862Z"
+      }
+    ],
+    "customer_review_status": "accepted",
+    "customer_review_comments": [
+      ""
+    ],
+    "prior_responses": [],
+    "response": {
+      "annotations": [
+        {
+          "uuid": "9dedcb03-23b2-44f5-8c54-74cb5fd9ac28",
+          "page": 0,
+          "label": "Store name",
+          "text": "MMV Frog d.o o",
+          "location": {
+            "type": "box",
+            "left": 267.185667752443,
+            "top": 144.48574969021067,
+            "width": 262.6416938110749,
+            "height": 35.43990086741016
+          },
+          "refs": []
+        },
+        {
+          "uuid": "0422b561-68c2-462d-9402-d9b3c453c43e",
+          "page": 0,
+          "label": "Store address",
+          "text": "Božidara Magovca 9, 10000 Zagreb",
+          "location": {
+            "type": "box",
+            "left": 174.4885993485342,
+            "top": 251.71416769929783,
+            "width": 522.5570032573289,
+            "height": 39.07476249483682
+          },
+          "refs": []
+        },
+        {
+          "uuid": "433316fd-c073-4cab-8489-9becbb44e99c",
+          "page": 0,
+          "label": "Unit 1 name",
+          "text": "BREYERS 465ml VanStrwbry",
+          "location": {
+            "type": "box",
+            "left": 176.30618892508141,
+            "top": 561.5861214374225,
+            "width": 385.328990228013,
+            "height": 48.161916563403565
+          },
+          "refs": []
+        },
+        {
+          "uuid": "ecd11cd2-fc85-4e5b-96f2-714eed2fd989",
+          "page": 0,
+          "label": "Unit 1 Price",
+          "text": "1,49",
+          "location": {
+            "type": "box",
+            "left": 656.1498371335505,
+            "top": 625.1961999173895,
+            "width": 70.88599348534206,
+            "height": 39.983477901693504
+          },
+          "refs": [],
+          "money": {
+            "amount": "1.49",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "e6f7eca7-4245-4cf3-a651-f5873af09cac",
+          "page": 0,
+          "label": "Unit 2 name",
+          "text": "depend higijenski sprej za dezinfekciju ruku s aloe verom 77% 50ml",
+          "location": {
+            "type": "box",
+            "left": 180.8501628664495,
+            "top": 681.5365551425032,
+            "width": 560.7263843648208,
+            "height": 65.42750929368026
+          },
+          "refs": []
+        },
+        {
+          "uuid": "2d193535-637d-45f8-b8fa-198985f28aac",
+          "page": 0,
+          "label": "Unit 2 Price",
+          "text": "0,99",
+          "location": {
+            "type": "box",
+            "left": 650.6970684039088,
+            "top": 768.7732342007436,
+            "width": 84.51791530944615,
+            "height": 47.25320115654688
+          },
+          "refs": [],
+          "money": {
+            "amount": "0.99",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "e16087df-5626-4464-8259-174095c3434c",
+          "page": 0,
+          "label": "Total Amount",
+          "text": "16,87",
+          "location": {
+            "type": "box",
+            "left": 600.7133550488599,
+            "top": 1592.978108219744,
+            "width": 135.41042345276878,
+            "height": 49.97934737711694
+          },
+          "refs": [],
+          "money": {
+            "amount": "16.87",
+            "parsed": true
+          }
+        }
+      ],
+      "values": [],
+      "is_customer_fix": false
+    },
+    "unique_id": "6522a2e5f62ca7bf8f10adc2:65219b0c9316944ccdf13a43",
+    "nucleusLink": {
+      "datasetId": "ds_cmgsncx7ybvg4sbapew0",
+      "datasetItemId": "di_cmha420a20tg0680t4t0"
+    },
+    "project_param_version": 1,
+    "customer_reviewed_by": "matejsarlija1@gmail.com",
+    "customer_audited_at": "2023-10-08T13:21:35.955Z",
+    "audits": [
+      {
+        "audited_by": "matejsarlija1@gmail.com",
+        "audited_at": "2023-10-08T13:21:35.955Z",
+        "audit_time_secs": 0,
+        "audit_active_time_secs": 0,
+        "audit_result": "accepted",
+        "audit_source": "customer"
+      }
+    ],
+    "document_pages": [
+      {
+        "url": "https://api.scale.com/v1/task/6522a2e6b1493c381b92da9a/response_url_c/s3/scale-us-attachments/6522a2e6b1493c381b92da9a%2Fjpeg%2F251d3df2-82b7-40b7-90da-c78674ad470c",
+        "width": 837,
+        "height": 2200
+      }
+    ],
+    "batch": "batch_l945gr",
+    "batchId": "6522a2e5f62ca7bf8f10adc2",
+    "updated_at": "2023-10-08T13:21:37.324Z",
+    "work_started": true,
+    "document_was_queued_by_ml": false,
+    "customer_labeled": true,
+    "isEdgeCase": false,
+    "pipelineName": "standard_task",
+    "projectPipeline": "standard_task",
+    "responseHistory": [
+      {
+        "_id": "6522a2e6b1493c381b92da9a",
+        "response": {
+          "annotations": [
+            {
+              "uuid": "9dedcb03-23b2-44f5-8c54-74cb5fd9ac28",
+              "page": 0,
+              "label": "Store name",
+              "text": "MMV Frog d.o o",
+              "location": {
+                "type": "box",
+                "left": 267.185667752443,
+                "top": 144.48574969021067,
+                "width": 262.6416938110749,
+                "height": 35.43990086741016
+              },
+              "refs": []
+            },
+            {
+              "uuid": "0422b561-68c2-462d-9402-d9b3c453c43e",
+              "page": 0,
+              "label": "Store address",
+              "text": "Božidara Magovca 9, 10000 Zagreb",
+              "location": {
+                "type": "box",
+                "left": 174.4885993485342,
+                "top": 251.71416769929783,
+                "width": 522.5570032573289,
+                "height": 39.07476249483682
+              },
+              "refs": []
+            },
+            {
+              "uuid": "433316fd-c073-4cab-8489-9becbb44e99c",
+              "page": 0,
+              "label": "Unit 1 name",
+              "text": "BREYERS 465ml VanStrwbry",
+              "location": {
+                "type": "box",
+                "left": 176.30618892508141,
+                "top": 561.5861214374225,
+                "width": 385.328990228013,
+                "height": 48.161916563403565
+              },
+              "refs": []
+            },
+            {
+              "uuid": "ecd11cd2-fc85-4e5b-96f2-714eed2fd989",
+              "page": 0,
+              "label": "Unit 1 Price",
+              "text": "1,49",
+              "location": {
+                "type": "box",
+                "left": 656.1498371335505,
+                "top": 625.1961999173895,
+                "width": 70.88599348534206,
+                "height": 39.983477901693504
+              },
+              "refs": [],
+              "money": {
+                "amount": "1.49",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "e6f7eca7-4245-4cf3-a651-f5873af09cac",
+              "page": 0,
+              "label": "Unit 2 name",
+              "text": "depend higijenski sprej za dezinfekciju ruku s aloe verom 77% 50ml",
+              "location": {
+                "type": "box",
+                "left": 180.8501628664495,
+                "top": 681.5365551425032,
+                "width": 560.7263843648208,
+                "height": 65.42750929368026
+              },
+              "refs": []
+            },
+            {
+              "uuid": "2d193535-637d-45f8-b8fa-198985f28aac",
+              "page": 0,
+              "label": "Unit 2 Price",
+              "text": "0,99",
+              "location": {
+                "type": "box",
+                "left": 650.6970684039088,
+                "top": 768.7732342007436,
+                "width": 84.51791530944615,
+                "height": 47.25320115654688
+              },
+              "refs": [],
+              "money": {
+                "amount": "0.99",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "e16087df-5626-4464-8259-174095c3434c",
+              "page": 0,
+              "label": "Total Amount",
+              "text": "16,87",
+              "location": {
+                "type": "box",
+                "left": 600.7133550488599,
+                "top": 1592.978108219744,
+                "width": 135.41042345276878,
+                "height": 49.97934737711694
+              },
+              "refs": [],
+              "money": {
+                "amount": "16.87",
+                "parsed": true
+              }
+            }
+          ],
+          "values": []
+        },
+        "source": "tasker",
+        "createdAt": "2023-10-08T13:04:13.214Z",
+        "fakeModelRetraining": false
+      }
+    ],
+    "hasLidarLite": false
+  },
+  {
+    "task_id": "6522a2e6b1493c381b92da9c",
+    "created_at": "2023-10-08T12:39:03.117Z",
+    "completed_at": "2023-10-08T12:59:41.407Z",
+    "type": "documenttranscription",
+    "status": "completed",
+    "instruction": " ",
+    "params": {
+      "features": [
+        {
+          "label": "Unit 1 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 1 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Unit 2 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 2 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Total Amount",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Store address",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Store name",
+          "type": "text",
+          "flags": []
+        }
+      ],
+      "fields": [],
+      "attachment_type": "image",
+      "attachments": [
+        "scaledata://6413387b009c446a440aea52/e7cc80cd-28bd-4ae4-87a5-b7046dcfcbf3"
+      ]
+    },
+    "is_test": false,
+    "urgency": "standard",
+    "metadata": {
+      "filename": "Adobe Scan Oct 01, 2023 (1)_8.jpg",
+      "upload_group_id": "2023-10-07 19:53:10",
+      "upload_source": "computer"
+    },
+    "processed_attachments": [],
+    "project": "Rapido",
+    "priority": 0,
+    "taxonomyVersion": "6522a1e0a1035490a5c8d7ea",
+    "attachmentS3Downloads": [
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/e7cc80cd-28bd-4ae4-87a5-b7046dcfcbf3",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e6b1493c381b92da9c/jpeg/b74a5a74-094f-4cec-b65a-9cb883a37c87?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=u69TXe-2-K2CExAP168bIC9dmmQT26am71wle3%7Esshz27VZUMh-0gw1TC8qTIhPid9Sjzi%7EHKxtJYDQ3dXy3adLNNoBgTZNCW-dI2oRzKH0npB-OQ0lSrOYaq1%7EMK5ylsJlpl40r1EBOYL58mPVgdPDOTcd3PRKH4zXvIDMGAfHE0e3l7je-JS78iLsKxxycNkYEI5f%7E2M1LZPmuIPfaH6QS-UPRUSwJvRPgSd1LeYWkrGj6Fp4a11mEiREuhizXrEV46isfM7Z2pvNSsoDdcEvep-S%7EcA79TcRawpi46WvRqPJt1VJ65k1bMKW9gIq-RV5CqveqDMLHQM61sJnKag__",
+        "warehouse": "s3",
+        "isConvertedImage": true,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 874,
+          "height": 2200,
+          "size": 313227,
+          "obfuscated": false
+        },
+        "_id": "6522a2eb89a920064d409263",
+        "uploadedAt": "2023-10-08T12:39:07.353Z",
+        "updatedAt": "2023-10-08T12:39:07.353Z"
+      },
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/e7cc80cd-28bd-4ae4-87a5-b7046dcfcbf3",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e6b1493c381b92da9c//3d66886f-498b-4d47-ab4f-a224f5fe2419?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=DZk4Ur9S9Z1qJfV98gUi1Yq95Uw%7EdFCieTc4%7E9NDc2g82yb4fuxslD4EqEzWxokDE5A0u3qGJNk-q4Sb-wNoLy3cpVXVV8JwbfD2p5hdlXCB7IPQkNhrH53W576jq-bMySQdDdiyWdBAxsJjWSEcgVYDUDWwKjiUO86oK36kiNrMVq8p3BCBfDMsgU4b-scMC3OtPMNlLSTrKzYTogb0E1XkGIqogOKjRNWSB2jIiZBJhDi-tgzY34vtyPObOYP-XRyyh7k2s8j5iriL04yLhBoNXXUXeZ4KJt2%7E7ug2Em8AoZsC4mtsmXCTa2Hl6vrD3vztZCAqCFhdfQogu3X61g__",
+        "warehouse": "s3",
+        "isConvertedImage": false,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 874,
+          "height": 2200,
+          "size": 313227,
+          "obfuscated": false
+        },
+        "_id": "6522a2eb89a920064d409264",
+        "uploadedAt": "2023-10-08T12:39:07.353Z",
+        "updatedAt": "2023-10-08T12:39:07.353Z"
+      }
+    ],
+    "customer_review_status": "accepted",
+    "customer_review_comments": [
+      ""
+    ],
+    "prior_responses": [],
+    "response": {
+      "annotations": [
+        {
+          "uuid": "8d416ee0-7754-4404-b90e-462cd2b40540",
+          "page": 0,
+          "label": "Unit 1 name",
+          "text": "SLADOLED KING",
+          "location": {
+            "type": "box",
+            "top": 496.1586121437423,
+            "left": 68.17472698907956,
+            "width": 271.33541341653665,
+            "height": 38.166047087980246
+          },
+          "refs": []
+        },
+        {
+          "uuid": "9c30d69a-5b20-46d3-9030-e39181b5ae0a",
+          "page": 0,
+          "label": "Unit 1 Price",
+          "text": "2,55",
+          "location": {
+            "type": "box",
+            "left": 719.9251170046801,
+            "top": 505.7001239157373,
+            "width": 94.08112324492981,
+            "height": 39.52912019826522
+          },
+          "refs": [],
+          "money": {
+            "amount": "2.55",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "39191cc8-8c2c-4abb-a507-bf996eddf01b",
+          "page": 0,
+          "label": "Unit 2 name",
+          "text": "MLIJEKO TRAJNO",
+          "location": {
+            "type": "box",
+            "left": 66.81123244929796,
+            "top": 542.5030978934325,
+            "width": 276.78939157566305,
+            "height": 35.43990086741019
+          },
+          "refs": []
+        },
+        {
+          "uuid": "a0a10c12-e81f-4e78-b515-a3662288d1f1",
+          "page": 0,
+          "label": "Unit 2 Price",
+          "text": "0,79",
+          "location": {
+            "type": "box",
+            "left": 722.2765072765072,
+            "top": 548.8641057414292,
+            "width": 91.76091476091483,
+            "height": 34.5311854605535
+          },
+          "refs": [],
+          "money": {
+            "amount": "0.79",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "bc12718f-c3a6-424b-ad7c-ec26c5a12847",
+          "page": 0,
+          "label": "Total Amount",
+          "text": "7,05",
+          "location": {
+            "type": "box",
+            "left": 722.2765072765072,
+            "top": 1073.1928954977282,
+            "width": 99.93762993762994,
+            "height": 39.07476249483693
+          },
+          "refs": [],
+          "money": {
+            "amount": "7.05",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "165491d1-a082-41df-86b7-2379bc234c04",
+          "page": 0,
+          "label": "Store name",
+          "text": "TOMMY d.o.o.",
+          "location": {
+            "type": "box",
+            "left": 246.2099792099792,
+            "top": 196.2825278810409,
+            "width": 460.62162162162156,
+            "height": 48.161916563403565
+          },
+          "refs": []
+        },
+        {
+          "uuid": "b65418c3-6fa4-498f-9196-04fc77e022fd",
+          "page": 0,
+          "label": "Store address",
+          "text": "Vrtlina 23, 23244 Rovanjska",
+          "location": {
+            "type": "box",
+            "left": 177.16216216216216,
+            "top": 347.1292854192483,
+            "width": 514.2245322245321,
+            "height": 54.522924411400254
+          },
+          "refs": []
+        }
+      ],
+      "values": [],
+      "is_customer_fix": false
+    },
+    "unique_id": "6522a2e5f62ca7bf8f10adc2:65219b0c9bec3b39ea5cb135",
+    "nucleusLink": {
+      "datasetId": "ds_cmgsncx7ybvg4sbapew0",
+      "datasetItemId": "di_cmha420a20tg0680t4wg"
+    },
+    "project_param_version": 1,
+    "customer_reviewed_by": "matejsarlija1@gmail.com",
+    "customer_audited_at": "2023-10-08T13:21:40.770Z",
+    "audits": [
+      {
+        "audited_by": "matejsarlija1@gmail.com",
+        "audited_at": "2023-10-08T13:21:40.770Z",
+        "audit_time_secs": 0,
+        "audit_active_time_secs": 0,
+        "audit_result": "accepted",
+        "audit_source": "customer"
+      }
+    ],
+    "document_pages": [
+      {
+        "url": "https://api.scale.com/v1/task/6522a2e6b1493c381b92da9c/response_url_c/s3/scale-us-attachments/6522a2e6b1493c381b92da9c%2Fjpeg%2Fb74a5a74-094f-4cec-b65a-9cb883a37c87",
+        "width": 874,
+        "height": 2200
+      }
+    ],
+    "batch": "batch_l945gr",
+    "batchId": "6522a2e5f62ca7bf8f10adc2",
+    "updated_at": "2023-10-08T13:26:17.715Z",
+    "work_started": true,
+    "document_was_queued_by_ml": false,
+    "customer_labeled": true,
+    "isEdgeCase": false,
+    "pipelineName": "standard_task",
+    "projectPipeline": "standard_task",
+    "responseHistory": [
+      {
+        "_id": "6522a2e6b1493c381b92da9c",
+        "response": {
+          "annotations": [
+            {
+              "uuid": "8d416ee0-7754-4404-b90e-462cd2b40540",
+              "page": 0,
+              "label": "Unit 1 name",
+              "text": "SLADOLED KING",
+              "location": {
+                "type": "box",
+                "top": 496.1586121437423,
+                "left": 68.17472698907956,
+                "width": 271.33541341653665,
+                "height": 38.166047087980246
+              },
+              "refs": []
+            },
+            {
+              "uuid": "9c30d69a-5b20-46d3-9030-e39181b5ae0a",
+              "page": 0,
+              "label": "Unit 1 Price",
+              "text": "2,55",
+              "location": {
+                "type": "box",
+                "left": 719.9251170046801,
+                "top": 505.7001239157373,
+                "width": 94.08112324492981,
+                "height": 39.52912019826522
+              },
+              "refs": [],
+              "money": {
+                "amount": "2.55",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "39191cc8-8c2c-4abb-a507-bf996eddf01b",
+              "page": 0,
+              "label": "Unit 2 name",
+              "text": "MLIJEKO TRAJNO",
+              "location": {
+                "type": "box",
+                "left": 66.81123244929796,
+                "top": 542.5030978934325,
+                "width": 276.78939157566305,
+                "height": 35.43990086741019
+              },
+              "refs": []
+            },
+            {
+              "uuid": "a0a10c12-e81f-4e78-b515-a3662288d1f1",
+              "page": 0,
+              "label": "Unit 2 Price",
+              "text": "0,79",
+              "location": {
+                "type": "box",
+                "left": 722.2765072765072,
+                "top": 548.8641057414292,
+                "width": 91.76091476091483,
+                "height": 34.5311854605535
+              },
+              "refs": [],
+              "money": {
+                "amount": "0.79",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "bc12718f-c3a6-424b-ad7c-ec26c5a12847",
+              "page": 0,
+              "label": "Total Amount",
+              "text": "7,05",
+              "location": {
+                "type": "box",
+                "left": 722.2765072765072,
+                "top": 1073.1928954977282,
+                "width": 99.93762993762994,
+                "height": 39.07476249483693
+              },
+              "refs": [],
+              "money": {
+                "amount": "7.05",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "165491d1-a082-41df-86b7-2379bc234c04",
+              "page": 0,
+              "label": "Store name",
+              "text": "TOMMY d.o.o.",
+              "location": {
+                "type": "box",
+                "left": 246.2099792099792,
+                "top": 196.2825278810409,
+                "width": 460.62162162162156,
+                "height": 48.161916563403565
+              },
+              "refs": []
+            },
+            {
+              "uuid": "b65418c3-6fa4-498f-9196-04fc77e022fd",
+              "page": 0,
+              "label": "Store address",
+              "text": "Vrtlina 23, 23244 Rovanjska",
+              "location": {
+                "type": "box",
+                "left": 177.16216216216216,
+                "top": 347.1292854192483,
+                "width": 514.2245322245321,
+                "height": 54.522924411400254
+              },
+              "refs": []
+            }
+          ],
+          "values": []
+        },
+        "source": "tasker",
+        "createdAt": "2023-10-08T12:59:41.407Z",
+        "fakeModelRetraining": false
+      }
+    ],
+    "hasLidarLite": false
+  },
+  {
+    "task_id": "6522a2e6b1493c381b92da8c",
+    "created_at": "2023-10-08T12:39:03.050Z",
+    "completed_at": "2023-10-08T12:56:11.537Z",
+    "type": "documenttranscription",
+    "status": "completed",
+    "instruction": " ",
+    "params": {
+      "features": [
+        {
+          "label": "Unit 1 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 1 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Unit 2 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 2 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Total Amount",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Store address",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Store name",
+          "type": "text",
+          "flags": []
+        }
+      ],
+      "fields": [],
+      "attachment_type": "image",
+      "attachments": [
+        "scaledata://6413387b009c446a440aea52/4fe34429-d428-4dbb-b844-e573eb3c8e64"
+      ]
+    },
+    "is_test": false,
+    "urgency": "standard",
+    "metadata": {
+      "filename": "Adobe Scan Oct 01, 2023 (1)_4.jpg",
+      "upload_group_id": "2023-10-07 19:53:10",
+      "upload_source": "computer"
+    },
+    "processed_attachments": [],
+    "project": "Rapido",
+    "priority": 0,
+    "taxonomyVersion": "6522a1e0a1035490a5c8d7ea",
+    "attachmentS3Downloads": [
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/4fe34429-d428-4dbb-b844-e573eb3c8e64",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e6b1493c381b92da8c/jpeg/5cf7182f-7b8c-4c8a-ac21-9927fb510571?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=Z0qWM2iAoFPB2OKVErkf5gNMr8e0g9DvKEMlH9aMbblH93qy6%7EdIVn05979Pcyx9Xyyk%7E4dVhI0FT7HS71aiVglnGgk4pUQ3IqPp5uPn7ISI%7EtZ5mjgH4Kz8i%7EOnjb%7Ee05zVqAiatmYp3dmUaF0zS3LJjszT8FOxYXuZvI7Sg4UgyU-SSxZA%7EdR4POJeB2nArPcACR9suFhQu-Cb7CdVK5Mb5SrQ26iCweMO8zcAahTQ2lk9JmxXcDy5VgMvg26KiiZcLTFApgwDvaI-4ndeu9sj3pd7Vh8-S6SFA9CeqcTuEOKj67O06KTvaAl629voTJnn2DTJxbV4rEU2X%7Ef%7EBA__",
+        "warehouse": "s3",
+        "isConvertedImage": true,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 1019,
+          "height": 2200,
+          "size": 314734,
+          "obfuscated": false
+        },
+        "_id": "6522a2ec0a1a371127381684",
+        "uploadedAt": "2023-10-08T12:39:08.074Z",
+        "updatedAt": "2023-10-08T12:39:08.074Z"
+      },
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/4fe34429-d428-4dbb-b844-e573eb3c8e64",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e6b1493c381b92da8c//0c0522ee-e9ff-4047-82d9-2eb51a1a9b02?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=uvHeCIORsbxtSbCYv-m4HMT0MuAbvxHIg2kdTvuPbsH4So8MBvOHkaDGyltSXZjwa-Dddb3TKE9wj%7ESHzGJGLQf5E1Y2jWPhYDM4Y8P-xZnaOtZk-LVGIdBbuea4%7EFVG5aBW8zYEjrwEhM8B2lX5JGFZ348%7E7dXQjGlbu0c4w54wlWODnnZlpkZaQ7Q7BwLyq9ZR2AIkMrW4bqoZXayNBOzuVfSoEJpr7mxL07-80M2wW-zJ4z%7E3Gqf14xNASxUe%7Etm%7Em8OyofnnY9FyJSWDJEJXl0g7lQgTTwHTDe33buRaJ%7ES0M1TSI9iGBnhVk99%7EQgNuoka5-d68cr7malYOew__",
+        "warehouse": "s3",
+        "isConvertedImage": false,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 1019,
+          "height": 2200,
+          "size": 314734,
+          "obfuscated": false
+        },
+        "_id": "6522a2ec0a1a371127381685",
+        "uploadedAt": "2023-10-08T12:39:08.074Z",
+        "updatedAt": "2023-10-08T12:39:08.074Z"
+      }
+    ],
+    "customer_review_status": "accepted",
+    "customer_review_comments": [
+      ""
+    ],
+    "prior_responses": [],
+    "response": {
+      "annotations": [
+        {
+          "uuid": "26e0b51b-e6b6-4aa2-a115-c0ee8f4474bc",
+          "page": 0,
+          "label": "Unit 1 name",
+          "text": "SAL KRISTAL KOM",
+          "location": {
+            "type": "box",
+            "left": 91.274064171123,
+            "top": 731.9702602230483,
+            "width": 361.00935828877004,
+            "height": 61.33828996282534
+          },
+          "refs": []
+        },
+        {
+          "uuid": "38d89ce9-05f9-4f6c-b87b-1c49440ef1f9",
+          "page": 0,
+          "label": "Unit 1 Price",
+          "text": "0,89",
+          "location": {
+            "type": "box",
+            "left": 805.1189839572193,
+            "top": 737.4225526641884,
+            "width": 108.98395721925135,
+            "height": 49.07063197026014
+          },
+          "refs": [],
+          "money": {
+            "amount": "0.89",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "d76465b3-898a-4852-8e5f-8d306ebae559",
+          "page": 0,
+          "label": "Unit 2 name",
+          "text": "LUK CRVENI",
+          "location": {
+            "type": "box",
+            "left": 81.7379679144385,
+            "top": 830.1115241635688,
+            "width": 264.28609625668446,
+            "height": 57.24907063197031
+          },
+          "refs": []
+        },
+        {
+          "uuid": "b3fe6b2a-f9f5-4ed8-8256-08228eddcc4b",
+          "page": 0,
+          "label": "Unit 2 Price",
+          "text": "0,20",
+          "location": {
+            "type": "box",
+            "left": 813.2927807486631,
+            "top": 831.4745972738538,
+            "width": 95.36096256684493,
+            "height": 43.61833952912025
+          },
+          "refs": [],
+          "money": {
+            "amount": "0.20",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "656ece12-5365-4d75-83de-ddc17e4193aa",
+          "page": 0,
+          "label": "Total Amount",
+          "text": "3,37",
+          "location": {
+            "type": "box",
+            "left": 837.8141711229947,
+            "top": 1128.6245353159852,
+            "width": 128.05614973262027,
+            "height": 64.06443618339517
+          },
+          "refs": [],
+          "money": {
+            "amount": "3.37",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "a7a242b5-1a37-4ea0-9ee8-2369f471374f",
+          "page": 0,
+          "label": "Store name",
+          "text": "KONZUM plus d.o.o.",
+          "location": {
+            "type": "box",
+            "left": 68.11497326203208,
+            "top": 282.1561338289963,
+            "width": 422.31283422459893,
+            "height": 53.159851301115225
+          },
+          "refs": []
+        },
+        {
+          "uuid": "4e143c9a-21b3-4912-a232-9e5a2e8569f2",
+          "page": 0,
+          "label": "Store address",
+          "text": "Rijeka, Riva 16",
+          "location": {
+            "type": "box",
+            "left": 77.65106951871658,
+            "top": 464.80793060718713,
+            "width": 363.73395721925135,
+            "height": 57.2490706319702
+          },
+          "refs": []
+        }
+      ],
+      "values": [],
+      "is_customer_fix": false
+    },
+    "unique_id": "6522a2e5f62ca7bf8f10adc2:65219b0c71428c412b65603c",
+    "nucleusLink": {
+      "datasetId": "ds_cmgsncx7ybvg4sbapew0",
+      "datasetItemId": "di_cmha420a20tg0680t4vg"
+    },
+    "project_param_version": 1,
+    "customer_reviewed_by": "matejsarlija1@gmail.com",
+    "customer_audited_at": "2023-10-08T13:21:45.083Z",
+    "audits": [
+      {
+        "audited_by": "matejsarlija1@gmail.com",
+        "audited_at": "2023-10-08T13:21:45.083Z",
+        "audit_time_secs": 0,
+        "audit_active_time_secs": 0,
+        "audit_result": "accepted",
+        "audit_source": "customer"
+      }
+    ],
+    "document_pages": [
+      {
+        "url": "https://api.scale.com/v1/task/6522a2e6b1493c381b92da8c/response_url_c/s3/scale-us-attachments/6522a2e6b1493c381b92da8c%2Fjpeg%2F5cf7182f-7b8c-4c8a-ac21-9927fb510571",
+        "width": 1019,
+        "height": 2200
+      }
+    ],
+    "batch": "batch_l945gr",
+    "batchId": "6522a2e5f62ca7bf8f10adc2",
+    "updated_at": "2023-10-08T13:21:46.723Z",
+    "work_started": true,
+    "document_was_queued_by_ml": false,
+    "customer_labeled": true,
+    "isEdgeCase": false,
+    "pipelineName": "standard_task",
+    "projectPipeline": "standard_task",
+    "responseHistory": [
+      {
+        "_id": "6522a2e6b1493c381b92da8c",
+        "response": {
+          "annotations": [
+            {
+              "uuid": "26e0b51b-e6b6-4aa2-a115-c0ee8f4474bc",
+              "page": 0,
+              "label": "Unit 1 name",
+              "text": "SAL KRISTAL KOM",
+              "location": {
+                "type": "box",
+                "left": 91.274064171123,
+                "top": 731.9702602230483,
+                "width": 361.00935828877004,
+                "height": 61.33828996282534
+              },
+              "refs": []
+            },
+            {
+              "uuid": "38d89ce9-05f9-4f6c-b87b-1c49440ef1f9",
+              "page": 0,
+              "label": "Unit 1 Price",
+              "text": "0,89",
+              "location": {
+                "type": "box",
+                "left": 805.1189839572193,
+                "top": 737.4225526641884,
+                "width": 108.98395721925135,
+                "height": 49.07063197026014
+              },
+              "refs": [],
+              "money": {
+                "amount": "0.89",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "d76465b3-898a-4852-8e5f-8d306ebae559",
+              "page": 0,
+              "label": "Unit 2 name",
+              "text": "LUK CRVENI",
+              "location": {
+                "type": "box",
+                "left": 81.7379679144385,
+                "top": 830.1115241635688,
+                "width": 264.28609625668446,
+                "height": 57.24907063197031
+              },
+              "refs": []
+            },
+            {
+              "uuid": "b3fe6b2a-f9f5-4ed8-8256-08228eddcc4b",
+              "page": 0,
+              "label": "Unit 2 Price",
+              "text": "0,20",
+              "location": {
+                "type": "box",
+                "left": 813.2927807486631,
+                "top": 831.4745972738538,
+                "width": 95.36096256684493,
+                "height": 43.61833952912025
+              },
+              "refs": [],
+              "money": {
+                "amount": "0.20",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "656ece12-5365-4d75-83de-ddc17e4193aa",
+              "page": 0,
+              "label": "Total Amount",
+              "text": "3,37",
+              "location": {
+                "type": "box",
+                "left": 837.8141711229947,
+                "top": 1128.6245353159852,
+                "width": 128.05614973262027,
+                "height": 64.06443618339517
+              },
+              "refs": [],
+              "money": {
+                "amount": "3.37",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "a7a242b5-1a37-4ea0-9ee8-2369f471374f",
+              "page": 0,
+              "label": "Store name",
+              "text": "KONZUM plus d.o.o.",
+              "location": {
+                "type": "box",
+                "left": 68.11497326203208,
+                "top": 282.1561338289963,
+                "width": 422.31283422459893,
+                "height": 53.159851301115225
+              },
+              "refs": []
+            },
+            {
+              "uuid": "4e143c9a-21b3-4912-a232-9e5a2e8569f2",
+              "page": 0,
+              "label": "Store address",
+              "text": "Rijeka, Riva 16",
+              "location": {
+                "type": "box",
+                "left": 77.65106951871658,
+                "top": 464.80793060718713,
+                "width": 363.73395721925135,
+                "height": 57.2490706319702
+              },
+              "refs": []
+            }
+          ],
+          "values": []
+        },
+        "source": "tasker",
+        "createdAt": "2023-10-08T12:56:11.537Z",
+        "fakeModelRetraining": false
+      }
+    ],
+    "hasLidarLite": false
+  },
+  {
+    "task_id": "6522a2e6b1493c381b92da95",
+    "created_at": "2023-10-08T12:39:03.059Z",
+    "completed_at": "2023-10-08T12:54:47.273Z",
+    "type": "documenttranscription",
+    "status": "completed",
+    "instruction": " ",
+    "params": {
+      "features": [
+        {
+          "label": "Unit 1 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 1 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Unit 2 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 2 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Total Amount",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Store address",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Store name",
+          "type": "text",
+          "flags": []
+        }
+      ],
+      "fields": [],
+      "attachment_type": "image",
+      "attachments": [
+        "scaledata://6413387b009c446a440aea52/f03d1e03-0d9e-4961-be48-3e767a9e74f5"
+      ]
+    },
+    "is_test": false,
+    "urgency": "standard",
+    "metadata": {
+      "filename": "Adobe Scan Oct 01, 2023 (1)_9.jpg",
+      "upload_group_id": "2023-10-07 19:53:10",
+      "upload_source": "computer"
+    },
+    "processed_attachments": [],
+    "project": "Rapido",
+    "priority": 0,
+    "taxonomyVersion": "6522a1e0a1035490a5c8d7ea",
+    "attachmentS3Downloads": [
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/f03d1e03-0d9e-4961-be48-3e767a9e74f5",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e6b1493c381b92da95/jpeg/a96dcd69-eed1-48cd-9a09-516298b88c7f?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=HJfCe6tAd02jD4rfiko2K48dVkhFaW9GMdK5JCRbce4tLvTXdVYS8sfCyse9ue1ZmkniNaqpghHX98GeHzEgliD-QZk%7EvxKrqak-1fN2cwqasx1yyB1FX29KWA1h2B6f7qMeGxrBvs3byrVf6MQ%7E1eT3AeXpSmr9S%7ElvI3vPMiDDLis0pfvXzJDeEf4d9IKHdK5JebQ-JUW3t2sv-SIScCKHp5FciuGhPvJIbXq2sm1maaQN84CIIT9f0JUrEbwwAoraIvFjOPHo57oD3xsDryRFttGW1gPAt5xW9NuMsI2u3wvK3%7EqmWZoT9O1LlGQnttgq7RE9xpptEj1GsBe7ug__",
+        "warehouse": "s3",
+        "isConvertedImage": true,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 826,
+          "height": 2200,
+          "size": 298355,
+          "obfuscated": false
+        },
+        "_id": "6522a2eb83acc8b14dd0e93c",
+        "uploadedAt": "2023-10-08T12:39:07.445Z",
+        "updatedAt": "2023-10-08T12:39:07.445Z"
+      },
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/f03d1e03-0d9e-4961-be48-3e767a9e74f5",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e6b1493c381b92da95//da213084-a6cb-4260-93df-41bd2590b799?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=eUJDo4hsORzN4-ldegSK07aboDp-9oJXLGdokWOUksmks6QITqlftfEnj5ylLoLoFym0%7E3Tv7TODfVb%7EBq7amOXneZWyvg9RmLlkWcd4kR6XhP3MKPr4P6xIxCv2LpEyTfiHhrslBoTUkrP260ImzGsbz2y79QN%7EDX2rP2-GxN28Ty8s6EMPmqXJYav7DOGH%7EzsUSzlZ8cFohJIW06RNEmmuKzCgSUOeq7ZiPyB40QgBkdSl3zSMAzS2ZeSkBt1IXQI6Ob7BInXDSQktLaMOUAeWKbw17GnoYFAi75lfhZUiwP6uM8wYblYQyUUtFSop0A1jiczd3zbEh2NbJPg51g__",
+        "warehouse": "s3",
+        "isConvertedImage": false,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 826,
+          "height": 2200,
+          "size": 298355,
+          "obfuscated": false
+        },
+        "_id": "6522a2eb83acc8b14dd0e93d",
+        "uploadedAt": "2023-10-08T12:39:07.445Z",
+        "updatedAt": "2023-10-08T12:39:07.445Z"
+      }
+    ],
+    "customer_review_status": "accepted",
+    "customer_review_comments": [
+      ""
+    ],
+    "prior_responses": [],
+    "response": {
+      "annotations": [
+        {
+          "uuid": "de78fbf7-0512-4d9b-ac04-cf61c690ed7f",
+          "page": 0,
+          "label": "Store name",
+          "text": "TOMMY d.o.o.",
+          "location": {
+            "type": "box",
+            "left": 235.8052805280528,
+            "top": 185.37794299876086,
+            "width": 421.17821782178214,
+            "height": 47.707558859975194
+          },
+          "refs": []
+        },
+        {
+          "uuid": "d45fb0c9-a154-4080-a0a4-0ffdc7414591",
+          "page": 0,
+          "label": "Store address",
+          "text": "Vrtlina 23, 23244 Rovanjska",
+          "location": {
+            "type": "box",
+            "left": 155.3861386138614,
+            "top": 336.67905824039656,
+            "width": 505.6864686468647,
+            "height": 39.52912019826516
+          },
+          "refs": []
+        },
+        {
+          "uuid": "a3c75721-6c0f-4e84-99b8-fd73757b6c04",
+          "page": 0,
+          "label": "Unit 1 name",
+          "text": "PaöTETA JETRE",
+          "location": {
+            "type": "box",
+            "left": 58.61056105610561,
+            "top": 477.07558859975217,
+            "width": 264.42904290429044,
+            "height": 40.89219330855025
+          },
+          "refs": []
+        },
+        {
+          "uuid": "9831c4b7-cf78-46e6-a188-0210ec45002f",
+          "page": 0,
+          "label": "Unit 1 Price",
+          "text": "0,89",
+          "location": {
+            "type": "box",
+            "left": 682.8811881188119,
+            "top": 474.34944237918216,
+            "width": 92.68646864686468,
+            "height": 29.98760842627013
+          },
+          "refs": [],
+          "money": {
+            "amount": "0.89",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "c498965b-508c-4633-90c6-da3ccfcd0053",
+          "page": 0,
+          "label": "Unit 2 name",
+          "text": "PAöTETA JETRE",
+          "location": {
+            "type": "box",
+            "left": 64.06270627062706,
+            "top": 554.7707558859976,
+            "width": 246.7095709570957,
+            "height": 39.529120198265105
+          },
+          "refs": []
+        },
+        {
+          "uuid": "58196cd9-8ef2-4c27-af62-a7497e4c3866",
+          "page": 0,
+          "label": "Unit 2 Price",
+          "text": "0,89",
+          "location": {
+            "type": "box",
+            "left": 689.6963696369637,
+            "top": 542.5030978934325,
+            "width": 74.96699669966995,
+            "height": 39.52912019826522
+          },
+          "refs": [],
+          "money": {
+            "amount": "0.89",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "6cff6171-120b-49b1-a74b-72bf6012e2c1",
+          "page": 0,
+          "label": "Total Amount",
+          "text": "12,22",
+          "location": {
+            "type": "box",
+            "left": 677.4290429042904,
+            "top": 1249.9380421313508,
+            "width": 103.5907590759075,
+            "height": 40.89219330855008
+          },
+          "refs": [],
+          "money": {
+            "amount": "12.22",
+            "parsed": true
+          }
+        }
+      ],
+      "values": [],
+      "is_customer_fix": false
+    },
+    "unique_id": "6522a2e5f62ca7bf8f10adc2:65219b0cbab7376608ce3246",
+    "nucleusLink": {
+      "datasetId": "ds_cmgsncx7ybvg4sbapew0",
+      "datasetItemId": "di_cmha420a20tg0680t4y0"
+    },
+    "project_param_version": 1,
+    "customer_reviewed_by": "matejsarlija1@gmail.com",
+    "customer_audited_at": "2023-10-08T13:21:48.801Z",
+    "audits": [
+      {
+        "audited_by": "matejsarlija1@gmail.com",
+        "audited_at": "2023-10-08T13:21:48.801Z",
+        "audit_time_secs": 0,
+        "audit_active_time_secs": 0,
+        "audit_result": "accepted",
+        "audit_source": "customer"
+      }
+    ],
+    "document_pages": [
+      {
+        "url": "https://api.scale.com/v1/task/6522a2e6b1493c381b92da95/response_url_c/s3/scale-us-attachments/6522a2e6b1493c381b92da95%2Fjpeg%2Fa96dcd69-eed1-48cd-9a09-516298b88c7f",
+        "width": 826,
+        "height": 2200
+      }
+    ],
+    "batch": "batch_l945gr",
+    "batchId": "6522a2e5f62ca7bf8f10adc2",
+    "updated_at": "2023-10-08T13:23:01.421Z",
+    "work_started": true,
+    "document_was_queued_by_ml": false,
+    "customer_labeled": true,
+    "isEdgeCase": false,
+    "pipelineName": "standard_task",
+    "projectPipeline": "standard_task",
+    "responseHistory": [
+      {
+        "_id": "6522a2e6b1493c381b92da95",
+        "response": {
+          "annotations": [
+            {
+              "uuid": "de78fbf7-0512-4d9b-ac04-cf61c690ed7f",
+              "page": 0,
+              "label": "Store name",
+              "text": "TOMMY d.o.o.",
+              "location": {
+                "type": "box",
+                "left": 235.8052805280528,
+                "top": 185.37794299876086,
+                "width": 421.17821782178214,
+                "height": 47.707558859975194
+              },
+              "refs": []
+            },
+            {
+              "uuid": "d45fb0c9-a154-4080-a0a4-0ffdc7414591",
+              "page": 0,
+              "label": "Store address",
+              "text": "Vrtlina 23, 23244 Rovanjska",
+              "location": {
+                "type": "box",
+                "left": 155.3861386138614,
+                "top": 336.67905824039656,
+                "width": 505.6864686468647,
+                "height": 39.52912019826516
+              },
+              "refs": []
+            },
+            {
+              "uuid": "a3c75721-6c0f-4e84-99b8-fd73757b6c04",
+              "page": 0,
+              "label": "Unit 1 name",
+              "text": "PaöTETA JETRE",
+              "location": {
+                "type": "box",
+                "left": 58.61056105610561,
+                "top": 477.07558859975217,
+                "width": 264.42904290429044,
+                "height": 40.89219330855025
+              },
+              "refs": []
+            },
+            {
+              "uuid": "9831c4b7-cf78-46e6-a188-0210ec45002f",
+              "page": 0,
+              "label": "Unit 1 Price",
+              "text": "0,89",
+              "location": {
+                "type": "box",
+                "left": 682.8811881188119,
+                "top": 474.34944237918216,
+                "width": 92.68646864686468,
+                "height": 29.98760842627013
+              },
+              "refs": [],
+              "money": {
+                "amount": "0.89",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "c498965b-508c-4633-90c6-da3ccfcd0053",
+              "page": 0,
+              "label": "Unit 2 name",
+              "text": "PAöTETA JETRE",
+              "location": {
+                "type": "box",
+                "left": 64.06270627062706,
+                "top": 554.7707558859976,
+                "width": 246.7095709570957,
+                "height": 39.529120198265105
+              },
+              "refs": []
+            },
+            {
+              "uuid": "58196cd9-8ef2-4c27-af62-a7497e4c3866",
+              "page": 0,
+              "label": "Unit 2 Price",
+              "text": "0,89",
+              "location": {
+                "type": "box",
+                "left": 689.6963696369637,
+                "top": 542.5030978934325,
+                "width": 74.96699669966995,
+                "height": 39.52912019826522
+              },
+              "refs": [],
+              "money": {
+                "amount": "0.89",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "6cff6171-120b-49b1-a74b-72bf6012e2c1",
+              "page": 0,
+              "label": "Total Amount",
+              "text": "12,22",
+              "location": {
+                "type": "box",
+                "left": 677.4290429042904,
+                "top": 1249.9380421313508,
+                "width": 103.5907590759075,
+                "height": 40.89219330855008
+              },
+              "refs": [],
+              "money": {
+                "amount": "12.22",
+                "parsed": true
+              }
+            }
+          ],
+          "values": []
+        },
+        "source": "tasker",
+        "createdAt": "2023-10-08T12:54:47.273Z",
+        "fakeModelRetraining": false
+      }
+    ],
+    "hasLidarLite": false
+  },
+  {
+    "task_id": "6522a2e6b1493c381b92da81",
+    "created_at": "2023-10-08T12:39:02.994Z",
+    "completed_at": "2023-10-08T12:52:34.374Z",
+    "type": "documenttranscription",
+    "status": "completed",
+    "instruction": " ",
+    "params": {
+      "features": [
+        {
+          "label": "Unit 1 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 1 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Unit 2 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 2 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Total Amount",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Store address",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Store name",
+          "type": "text",
+          "flags": []
+        }
+      ],
+      "fields": [],
+      "attachment_type": "image",
+      "attachments": [
+        "scaledata://6413387b009c446a440aea52/99883349-e178-4fc1-be65-5c983d81dec5"
+      ]
+    },
+    "is_test": false,
+    "urgency": "standard",
+    "metadata": {
+      "filename": "Adobe Scan Oct 01, 2023 (1)_7.jpg",
+      "upload_group_id": "2023-10-07 19:53:10",
+      "upload_source": "computer"
+    },
+    "processed_attachments": [],
+    "project": "Rapido",
+    "priority": 0,
+    "taxonomyVersion": "6522a1e0a1035490a5c8d7ea",
+    "attachmentS3Downloads": [
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/99883349-e178-4fc1-be65-5c983d81dec5",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e6b1493c381b92da81/jpeg/6275d34c-35ff-42ef-a2c4-a2565bd1c3fa?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=mB7jRnYrNXEOF5wrqSvSfBQKN%7EMzCRPAcndnmsXcUTE9U9mVjY5OZiI9gvk-JmmnwpIuBhqimcNw1evTowDJwVfWHfR6axIFRtTav4GwfFsJD-pHkzcrLpScVtVtzzeKlVRGUmvEp8JfqBZh8C4kDxxXdnn8Ep5C-%7Es%7ESUG%7EwbjUewmWcQZ1gUMP4r7dpj2vRfHfQzDZxortYhEaa-Ej9A0uATXMVreEwITettpaujGjR4asBKJcu6HM-asAOWXnKLw4467Fmi3AEMYF6yhrkuP4CAyYaPgAx81%7Eau0%7ElemFVkr9UbD92sxEwOsTKCGnpKSLivJex86swI7IpXWKsA__",
+        "warehouse": "s3",
+        "isConvertedImage": true,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 912,
+          "height": 2200,
+          "size": 325597,
+          "obfuscated": false
+        },
+        "_id": "6522a2edf90c41d13a967f3d",
+        "uploadedAt": "2023-10-08T12:39:09.925Z",
+        "updatedAt": "2023-10-08T12:39:09.925Z"
+      },
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/99883349-e178-4fc1-be65-5c983d81dec5",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e6b1493c381b92da81//3d07fd98-f292-469f-88d3-f8370a42169e?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=h%7ETWMG9mg4q-IszckNFfuyg2as05ojIdwbeuaFCKJkAg2s3a087shlwVf84wEhSLi8da%7EpG29MQLEzmy-kInciJL386AjG4AwybttLMSFvo6c76pjw0aIes1F7Xxk7OVTvLAxHYsPFrrXtK26gFNHKJBdYJLF7G-YlacaIGC%7EOqiJ5Xkbs1GZZ95ee9H9u5ihE7KUTAk9gye-wzOB1c7e1If0cJ7SnzDYQr-kkjsCGWmBnYLymxm2SR2G3NpaaU3OLcoHsniQ50znXx0uf3rjaJuzRZdzn4JwjJrFk5zYhnmuN5QK0-al957iCmbprLBA2mPQtkleI0mV4PBEX2PfA__",
+        "warehouse": "s3",
+        "isConvertedImage": false,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 912,
+          "height": 2200,
+          "size": 325597,
+          "obfuscated": false
+        },
+        "_id": "6522a2edf90c41d13a967f3e",
+        "uploadedAt": "2023-10-08T12:39:09.925Z",
+        "updatedAt": "2023-10-08T12:39:09.925Z"
+      }
+    ],
+    "customer_review_status": "accepted",
+    "customer_review_comments": [
+      ""
+    ],
+    "prior_responses": [],
+    "response": {
+      "annotations": [
+        {
+          "uuid": "0cef57af-628f-4774-81ae-be78e709f992",
+          "page": 0,
+          "label": "Unit 1 name",
+          "text": "KRAFNA S COKO",
+          "location": {
+            "type": "box",
+            "top": 519.3308550185874,
+            "left": 64.07174887892377,
+            "width": 287.64125560538116,
+            "height": 38.16604708798013
+          },
+          "refs": []
+        },
+        {
+          "uuid": "dd7d2849-e7a9-4801-ace2-f94d50432e27",
+          "page": 0,
+          "label": "Unit 1 Price",
+          "text": "1,60",
+          "location": {
+            "type": "box",
+            "left": 755.2286995515694,
+            "top": 512.5154894671623,
+            "width": 103.60538116591931,
+            "height": 36.80297397769516
+          },
+          "refs": [],
+          "money": {
+            "amount": "1.60",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "6551733f-6b18-4434-ba6f-03a614d55707",
+          "page": 0,
+          "label": "Unit 2 name",
+          "text": "KRAFNA BOBIS",
+          "location": {
+            "type": "box",
+            "left": 69.52466367713004,
+            "top": 562.9491945477075,
+            "width": 252.19730941704034,
+            "height": 34.076827757125216
+          },
+          "refs": []
+        },
+        {
+          "uuid": "f1baf17c-44f6-4afa-a9f1-53c518ac12a6",
+          "page": 0,
+          "label": "Unit 2 Price",
+          "text": "0,70",
+          "location": {
+            "type": "box",
+            "left": 756.5919282511211,
+            "top": 554.7707558859976,
+            "width": 100.87892376681611,
+            "height": 29.98760842627007
+          },
+          "refs": [],
+          "money": {
+            "amount": "0.70",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "7c0c7342-c90c-4fd6-87bd-ee9dd423d8b3",
+          "page": 0,
+          "label": "Total Amount",
+          "text": "21,84",
+          "location": {
+            "type": "box",
+            "left": 727.964125560538,
+            "top": 1161.3382899628252,
+            "width": 134.95964125560545,
+            "height": 42.25526641883516
+          },
+          "refs": [],
+          "money": {
+            "amount": "21.84",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "2829e090-d9a3-4090-a8da-ee8ae1a3afaf",
+          "page": 0,
+          "label": "Store name",
+          "text": "TOMMY d.o.o.",
+          "location": {
+            "type": "box",
+            "left": 260.37668161434976,
+            "top": 199.00867410161092,
+            "width": 490.76233183856505,
+            "height": 50.433705080545224
+          },
+          "refs": []
+        },
+        {
+          "uuid": "eed8bda0-9424-443b-9451-aaf3dd00fbb6",
+          "page": 0,
+          "label": "Store name",
+          "text": "Vrtlina 23, 23244 Rovanjska",
+          "location": {
+            "type": "box",
+            "left": 178.5829596412556,
+            "top": 362.57744733581166,
+            "width": 546.6547085201794,
+            "height": 46.34448574969019
+          },
+          "refs": []
+        }
+      ],
+      "values": [],
+      "is_customer_fix": false
+    },
+    "unique_id": "6522a2e5f62ca7bf8f10adc2:65219b0cd6d8de69ec162b3d",
+    "nucleusLink": {
+      "datasetId": "ds_cmgsncx7ybvg4sbapew0",
+      "datasetItemId": "di_cmha420a20tg0680t4tg"
+    },
+    "project_param_version": 1,
+    "customer_reviewed_by": "matejsarlija1@gmail.com",
+    "customer_audited_at": "2023-10-08T13:21:52.106Z",
+    "audits": [
+      {
+        "audited_by": "matejsarlija1@gmail.com",
+        "audited_at": "2023-10-08T13:21:52.106Z",
+        "audit_time_secs": 0,
+        "audit_active_time_secs": 0,
+        "audit_result": "accepted",
+        "audit_source": "customer"
+      }
+    ],
+    "document_pages": [
+      {
+        "url": "https://api.scale.com/v1/task/6522a2e6b1493c381b92da81/response_url_c/s3/scale-us-attachments/6522a2e6b1493c381b92da81%2Fjpeg%2F6275d34c-35ff-42ef-a2c4-a2565bd1c3fa",
+        "width": 912,
+        "height": 2200
+      }
+    ],
+    "batch": "batch_l945gr",
+    "batchId": "6522a2e5f62ca7bf8f10adc2",
+    "updated_at": "2023-10-08T13:21:53.367Z",
+    "work_started": true,
+    "document_was_queued_by_ml": false,
+    "customer_labeled": true,
+    "isEdgeCase": false,
+    "pipelineName": "standard_task",
+    "projectPipeline": "standard_task",
+    "responseHistory": [
+      {
+        "_id": "6522a2e6b1493c381b92da81",
+        "response": {
+          "annotations": [
+            {
+              "uuid": "0cef57af-628f-4774-81ae-be78e709f992",
+              "page": 0,
+              "label": "Unit 1 name",
+              "text": "KRAFNA S COKO",
+              "location": {
+                "type": "box",
+                "top": 519.3308550185874,
+                "left": 64.07174887892377,
+                "width": 287.64125560538116,
+                "height": 38.16604708798013
+              },
+              "refs": []
+            },
+            {
+              "uuid": "dd7d2849-e7a9-4801-ace2-f94d50432e27",
+              "page": 0,
+              "label": "Unit 1 Price",
+              "text": "1,60",
+              "location": {
+                "type": "box",
+                "left": 755.2286995515694,
+                "top": 512.5154894671623,
+                "width": 103.60538116591931,
+                "height": 36.80297397769516
+              },
+              "refs": [],
+              "money": {
+                "amount": "1.60",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "6551733f-6b18-4434-ba6f-03a614d55707",
+              "page": 0,
+              "label": "Unit 2 name",
+              "text": "KRAFNA BOBIS",
+              "location": {
+                "type": "box",
+                "left": 69.52466367713004,
+                "top": 562.9491945477075,
+                "width": 252.19730941704034,
+                "height": 34.076827757125216
+              },
+              "refs": []
+            },
+            {
+              "uuid": "f1baf17c-44f6-4afa-a9f1-53c518ac12a6",
+              "page": 0,
+              "label": "Unit 2 Price",
+              "text": "0,70",
+              "location": {
+                "type": "box",
+                "left": 756.5919282511211,
+                "top": 554.7707558859976,
+                "width": 100.87892376681611,
+                "height": 29.98760842627007
+              },
+              "refs": [],
+              "money": {
+                "amount": "0.70",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "7c0c7342-c90c-4fd6-87bd-ee9dd423d8b3",
+              "page": 0,
+              "label": "Total Amount",
+              "text": "21,84",
+              "location": {
+                "type": "box",
+                "left": 727.964125560538,
+                "top": 1161.3382899628252,
+                "width": 134.95964125560545,
+                "height": 42.25526641883516
+              },
+              "refs": [],
+              "money": {
+                "amount": "21.84",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "2829e090-d9a3-4090-a8da-ee8ae1a3afaf",
+              "page": 0,
+              "label": "Store name",
+              "text": "TOMMY d.o.o.",
+              "location": {
+                "type": "box",
+                "left": 260.37668161434976,
+                "top": 199.00867410161092,
+                "width": 490.76233183856505,
+                "height": 50.433705080545224
+              },
+              "refs": []
+            },
+            {
+              "uuid": "eed8bda0-9424-443b-9451-aaf3dd00fbb6",
+              "page": 0,
+              "label": "Store name",
+              "text": "Vrtlina 23, 23244 Rovanjska",
+              "location": {
+                "type": "box",
+                "left": 178.5829596412556,
+                "top": 362.57744733581166,
+                "width": 546.6547085201794,
+                "height": 46.34448574969019
+              },
+              "refs": []
+            }
+          ],
+          "values": []
+        },
+        "source": "tasker",
+        "createdAt": "2023-10-08T12:52:34.374Z",
+        "fakeModelRetraining": false
+      }
+    ],
+    "hasLidarLite": false
+  },
+  {
+    "task_id": "6522a2e6b1493c381b92da8e",
+    "created_at": "2023-10-08T12:39:03.039Z",
+    "completed_at": "2023-10-08T12:50:42.406Z",
+    "type": "documenttranscription",
+    "status": "completed",
+    "instruction": " ",
+    "params": {
+      "features": [
+        {
+          "label": "Unit 1 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 1 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Unit 2 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 2 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Total Amount",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Store address",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Store name",
+          "type": "text",
+          "flags": []
+        }
+      ],
+      "fields": [],
+      "attachment_type": "image",
+      "attachments": [
+        "scaledata://6413387b009c446a440aea52/e5272875-b1c3-4bbc-8cd2-21210ed999a6"
+      ]
+    },
+    "is_test": false,
+    "urgency": "standard",
+    "metadata": {
+      "filename": "Adobe Scan Oct 01, 2023 (1)_10.jpg",
+      "upload_group_id": "2023-10-07 19:53:10",
+      "upload_source": "computer"
+    },
+    "processed_attachments": [],
+    "project": "Rapido",
+    "priority": 0,
+    "taxonomyVersion": "6522a1e0a1035490a5c8d7ea",
+    "attachmentS3Downloads": [
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/e5272875-b1c3-4bbc-8cd2-21210ed999a6",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e6b1493c381b92da8e/jpeg/961329f0-2298-46ac-85d4-965a0bc43785?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=uQWnGqYiXIjK0gv4be2SrgovEnKBaFUdMBrJKBpeKBCYVVhc0jW%7ES1qbEdgijwd1BBUajfKAc-Vl-aIAsCeSYWzecU7fQs5H2DiE-c%7Ek9ClFRlCCw9P-ZSIo0faAT8zVOm4%7E0TrO6GuHRe6O1FABC15oxaCql-RGqBXwJG3GfVBwdlNqwvsfGM3pPkIhPlZ5-CkA95dZ%7E13iDTSxaoQP-w%7ErJS%7EZ3wLFALHHp0ahJQ2Hh15mavb2PeycE2BdOkCO8ckC-yQl3db4s2W1tLOpiuUriqP0bI0NNZyQmLSxVwHFd3YMFAmw8V9X3W8PwtQ5NKOtEM8Wkf46Z5F68BT7ZA__",
+        "warehouse": "s3",
+        "isConvertedImage": true,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 855,
+          "height": 2200,
+          "size": 343745,
+          "obfuscated": false
+        },
+        "_id": "6522a2eba40e453de4c1b012",
+        "uploadedAt": "2023-10-08T12:39:07.780Z",
+        "updatedAt": "2023-10-08T12:39:07.780Z"
+      },
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/e5272875-b1c3-4bbc-8cd2-21210ed999a6",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e6b1493c381b92da8e//8b8366d5-052f-4713-b5c6-72c212248231?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=PKAlnZ5xC64%7ERwC-krfmCvBBJQzMF-t80v2omFfV9JvfABqbQm-b2bO7NieBW4QGA6L7JBaHOWLEl4ldkkQe0WjFnFV2Gr1ZnL6005AR6POF-hQ%7EWKLBVkQQk2em9Y%7Eggsk23owYSOm2HZczbU0O2lfN8g4J0VbNtDNpGydq6U551wM8OP5ZkHnqsX7jdUsl2lEzCoo%7EcjvSaHKC5P%7Etd-m3FI9g4SdHraIbOElIsxUiqq25JBjHTYd33pSd3PF-bSz%7El18y%7Eicbvc2YH8TqX%7E9vugPrD12IAcjKb7e2jsrjDcFt0h3VrnwqbdRz7Cu2f1PyBUMPyFUu2fDnuqPPZg__",
+        "warehouse": "s3",
+        "isConvertedImage": false,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 855,
+          "height": 2200,
+          "size": 343745,
+          "obfuscated": false
+        },
+        "_id": "6522a2eba40e453de4c1b013",
+        "uploadedAt": "2023-10-08T12:39:07.780Z",
+        "updatedAt": "2023-10-08T12:39:07.780Z"
+      }
+    ],
+    "customer_review_status": "accepted",
+    "customer_review_comments": [
+      ""
+    ],
+    "prior_responses": [],
+    "response": {
+      "annotations": [
+        {
+          "uuid": "9466459f-6418-4f98-819e-a5f466fb75f8",
+          "page": 0,
+          "label": "Store name",
+          "text": "TOMMY d.o.o.",
+          "location": {
+            "type": "box",
+            "left": 217.8343949044586,
+            "top": 188.10408921933086,
+            "width": 473.78980891719755,
+            "height": 46.34448574969022
+          },
+          "refs": []
+        },
+        {
+          "uuid": "25900a1f-30c7-4aa4-915a-e2ab532f8a3e",
+          "page": 0,
+          "label": "Store address",
+          "text": "Vrtlina 23, 23244 Rovanjska",
+          "location": {
+            "type": "box",
+            "left": 171.54458598726114,
+            "top": 335.3159851301115,
+            "width": 517.3566878980893,
+            "height": 43.61833952912019
+          },
+          "refs": []
+        },
+        {
+          "uuid": "d3ba440e-042c-4691-a799-867043e825c8",
+          "page": 0,
+          "label": "Unit 1 name",
+          "text": "VRECICA S RUC",
+          "location": {
+            "type": "box",
+            "left": 54.45859872611465,
+            "top": 591.5737298636927,
+            "width": 304.96815286624206,
+            "height": 35.439900867410074
+          },
+          "refs": []
+        },
+        {
+          "uuid": "8efe8aa5-3bbd-4476-83b2-97f7cb1e96a2",
+          "page": 0,
+          "label": "Unit 1 Price",
+          "text": "0,20",
+          "location": {
+            "type": "box",
+            "left": 694.3471337579618,
+            "top": 586.1214374225526,
+            "width": 98.02547770700642,
+            "height": 35.43990086741019
+          },
+          "refs": [],
+          "money": {
+            "amount": "0.20",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "e94c0173-db00-4089-82b8-b441cfe22c04",
+          "page": 0,
+          "label": "Unit 2 name",
+          "text": "VODA GAZ. 1,5L",
+          "location": {
+            "type": "box",
+            "left": 66.81818181818181,
+            "top": 631.1028500619578,
+            "width": 260.45454545454544,
+            "height": 35.43990086741019
+          },
+          "refs": []
+        },
+        {
+          "uuid": "1297338d-d98b-4b01-949e-18960a049ab1",
+          "page": 0,
+          "label": "Unit 2 Price",
+          "text": "6,30",
+          "location": {
+            "type": "box",
+            "left": 702.2727272727273,
+            "top": 625.6505576208178,
+            "width": 91.36363636363637,
+            "height": 34.076827757125216
+          },
+          "refs": [],
+          "money": {
+            "amount": "6.30",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "4ed5ad5f-154b-4acc-bc9d-0e5b7cfc35bb",
+          "page": 0,
+          "label": "Total Amount",
+          "text": "185,77",
+          "location": {
+            "type": "box",
+            "left": 662.7272727272726,
+            "top": 1508.921933085502,
+            "width": 136.36363636363637,
+            "height": 36.802973977695046
+          },
+          "refs": [],
+          "money": {
+            "amount": "185.77",
+            "parsed": true
+          }
+        }
+      ],
+      "values": [],
+      "is_customer_fix": false
+    },
+    "unique_id": "6522a2e5f62ca7bf8f10adc2:65219b0c6f96f8752c8f6a85",
+    "nucleusLink": {
+      "datasetId": "ds_cmgsncx7ybvg4sbapew0",
+      "datasetItemId": "di_cmha420a20tg0680t4x0"
+    },
+    "project_param_version": 1,
+    "customer_reviewed_by": "matejsarlija1@gmail.com",
+    "customer_audited_at": "2023-10-08T13:21:55.901Z",
+    "audits": [
+      {
+        "audited_by": "matejsarlija1@gmail.com",
+        "audited_at": "2023-10-08T13:21:55.901Z",
+        "audit_time_secs": 0,
+        "audit_active_time_secs": 0,
+        "audit_result": "accepted",
+        "audit_source": "customer"
+      }
+    ],
+    "document_pages": [
+      {
+        "url": "https://api.scale.com/v1/task/6522a2e6b1493c381b92da8e/response_url_c/s3/scale-us-attachments/6522a2e6b1493c381b92da8e%2Fjpeg%2F961329f0-2298-46ac-85d4-965a0bc43785",
+        "width": 855,
+        "height": 2200
+      }
+    ],
+    "batch": "batch_l945gr",
+    "batchId": "6522a2e5f62ca7bf8f10adc2",
+    "updated_at": "2023-10-08T13:21:57.134Z",
+    "work_started": true,
+    "document_was_queued_by_ml": false,
+    "customer_labeled": true,
+    "isEdgeCase": false,
+    "pipelineName": "standard_task",
+    "projectPipeline": "standard_task",
+    "responseHistory": [
+      {
+        "_id": "6522a2e6b1493c381b92da8e",
+        "response": {
+          "annotations": [
+            {
+              "uuid": "9466459f-6418-4f98-819e-a5f466fb75f8",
+              "page": 0,
+              "label": "Store name",
+              "text": "TOMMY d.o.o.",
+              "location": {
+                "type": "box",
+                "left": 217.8343949044586,
+                "top": 188.10408921933086,
+                "width": 473.78980891719755,
+                "height": 46.34448574969022
+              },
+              "refs": []
+            },
+            {
+              "uuid": "25900a1f-30c7-4aa4-915a-e2ab532f8a3e",
+              "page": 0,
+              "label": "Store address",
+              "text": "Vrtlina 23, 23244 Rovanjska",
+              "location": {
+                "type": "box",
+                "left": 171.54458598726114,
+                "top": 335.3159851301115,
+                "width": 517.3566878980893,
+                "height": 43.61833952912019
+              },
+              "refs": []
+            },
+            {
+              "uuid": "d3ba440e-042c-4691-a799-867043e825c8",
+              "page": 0,
+              "label": "Unit 1 name",
+              "text": "VRECICA S RUC",
+              "location": {
+                "type": "box",
+                "left": 54.45859872611465,
+                "top": 591.5737298636927,
+                "width": 304.96815286624206,
+                "height": 35.439900867410074
+              },
+              "refs": []
+            },
+            {
+              "uuid": "8efe8aa5-3bbd-4476-83b2-97f7cb1e96a2",
+              "page": 0,
+              "label": "Unit 1 Price",
+              "text": "0,20",
+              "location": {
+                "type": "box",
+                "left": 694.3471337579618,
+                "top": 586.1214374225526,
+                "width": 98.02547770700642,
+                "height": 35.43990086741019
+              },
+              "refs": [],
+              "money": {
+                "amount": "0.20",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "e94c0173-db00-4089-82b8-b441cfe22c04",
+              "page": 0,
+              "label": "Unit 2 name",
+              "text": "VODA GAZ. 1,5L",
+              "location": {
+                "type": "box",
+                "left": 66.81818181818181,
+                "top": 631.1028500619578,
+                "width": 260.45454545454544,
+                "height": 35.43990086741019
+              },
+              "refs": []
+            },
+            {
+              "uuid": "1297338d-d98b-4b01-949e-18960a049ab1",
+              "page": 0,
+              "label": "Unit 2 Price",
+              "text": "6,30",
+              "location": {
+                "type": "box",
+                "left": 702.2727272727273,
+                "top": 625.6505576208178,
+                "width": 91.36363636363637,
+                "height": 34.076827757125216
+              },
+              "refs": [],
+              "money": {
+                "amount": "6.30",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "4ed5ad5f-154b-4acc-bc9d-0e5b7cfc35bb",
+              "page": 0,
+              "label": "Total Amount",
+              "text": "185,77",
+              "location": {
+                "type": "box",
+                "left": 662.7272727272726,
+                "top": 1508.921933085502,
+                "width": 136.36363636363637,
+                "height": 36.802973977695046
+              },
+              "refs": [],
+              "money": {
+                "amount": "185.77",
+                "parsed": true
+              }
+            }
+          ],
+          "values": []
+        },
+        "source": "tasker",
+        "createdAt": "2023-10-08T12:50:42.406Z",
+        "fakeModelRetraining": false
+      }
+    ],
+    "hasLidarLite": false
+  },
+  {
+    "task_id": "6522a2e6b1493c381b92da85",
+    "created_at": "2023-10-08T12:39:03.023Z",
+    "completed_at": "2023-10-08T12:48:54.319Z",
+    "type": "documenttranscription",
+    "status": "completed",
+    "instruction": " ",
+    "params": {
+      "features": [
+        {
+          "label": "Unit 1 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 1 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Unit 2 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 2 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Total Amount",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Store address",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Store name",
+          "type": "text",
+          "flags": []
+        }
+      ],
+      "fields": [],
+      "attachment_type": "image",
+      "attachments": [
+        "scaledata://6413387b009c446a440aea52/bca62d3f-d4cd-406f-95ac-e24c9e3ad7d3"
+      ]
+    },
+    "is_test": false,
+    "urgency": "standard",
+    "metadata": {
+      "filename": "Adobe Scan Oct 01, 2023 (1)_1.jpg",
+      "upload_group_id": "2023-10-07 19:53:10",
+      "upload_source": "computer"
+    },
+    "processed_attachments": [],
+    "project": "Rapido",
+    "priority": 0,
+    "taxonomyVersion": "6522a1e0a1035490a5c8d7ea",
+    "attachmentS3Downloads": [
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/bca62d3f-d4cd-406f-95ac-e24c9e3ad7d3",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e6b1493c381b92da85/jpeg/5622f97a-2e7e-4a2d-aa81-932d5169d689?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=HI39Avco6X5iorJr9YbRHoKc57QwDt233YOlawVbVgp60p9pG0L5lHx2SD2qPsrlO1M3H7hnUz90wbq0s7iNs%7EKsD7i0Xi7NJCL6WPWzZCg9IPMe-rPs84LSagK9ImS2zoDDClk3SctxJkJFO00J2zgqnl8DhLdtPtMOn5mNARrjDlwxCbI48PVH8P%7EhYr5wE-SZJbu4jBBpgE7LgLR-iiXuRPQ-90VtemacIIr1neZf4g5hejJOapGkE5hGpNOELO0l7QHmFPkp2eNJSuOKlJ4pC1OSjsYIv3pJbh2e75AbmWxRu5outffAxWhaaUYTnflScX%7E4jGJf7tOUMwp%7Ekg__",
+        "warehouse": "s3",
+        "isConvertedImage": true,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 1174,
+          "height": 2200,
+          "size": 285916,
+          "obfuscated": false
+        },
+        "_id": "6522a2ede34bfd89e32f6d00",
+        "uploadedAt": "2023-10-08T12:39:09.959Z",
+        "updatedAt": "2023-10-08T12:39:09.959Z"
+      },
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/bca62d3f-d4cd-406f-95ac-e24c9e3ad7d3",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e6b1493c381b92da85//136baa0f-8c92-4469-a2f3-93f6429a73f2?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=ZAWOwGNKQl-HtKbcb6uJU50m1u7I9Yiy9F7ggNrImXPIFGXnVOf7RZXYriTH2B%7Eq9gJUeq%7E5D7Wn6bRj0be3vt6QcT9X5OzLZ6g1oqu-HAdKkr-LcEoPv0JD7j5JnggdhopsUzoxQLGA1CPNGX0Kka%7EqYDdLCdtOP-lK6JVIOneQKhCmomUuOQLSDcAg1cAg0t3A4RPINt57xJirbGhbsKF0FV0WjkHGcEyGuitukLLO96481Nh091tEG1CXRxssKL9O7SIaIVnVA8%7EtkrSOfwKQmPSSkPsx8hDFZZqMKFIhwz1X9OdxvcV1KcnRK8yv87ZoLd2rdydBvtBMSXkEKA__",
+        "warehouse": "s3",
+        "isConvertedImage": false,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 1174,
+          "height": 2200,
+          "size": 285916,
+          "obfuscated": false
+        },
+        "_id": "6522a2ede34bfd89e32f6d01",
+        "uploadedAt": "2023-10-08T12:39:09.959Z",
+        "updatedAt": "2023-10-08T12:39:09.959Z"
+      }
+    ],
+    "customer_review_status": "accepted",
+    "customer_review_comments": [
+      ""
+    ],
+    "prior_responses": [],
+    "response": {
+      "annotations": [
+        {
+          "uuid": "9910c172-96c5-43c3-87a7-3a86724e2980",
+          "page": 0,
+          "label": "Store name",
+          "text": "NARODNE NOVINE D.D.",
+          "location": {
+            "type": "box",
+            "left": 318.69605568445473,
+            "top": 5.452292441140025,
+            "width": 544.7795823665892,
+            "height": 92.68897149938041
+          },
+          "refs": []
+        },
+        {
+          "uuid": "3731d748-01df-42c7-be77-e139d8fe292b",
+          "page": 0,
+          "label": "Store address",
+          "text": "Dolac 9",
+          "location": {
+            "type": "box",
+            "left": 457.614849187935,
+            "top": 253.53159851301115,
+            "width": 253.32250580046406,
+            "height": 62.701363073110315
+          },
+          "refs": []
+        },
+        {
+          "uuid": "40b22a13-384c-4262-87e7-794c3338f126",
+          "page": 0,
+          "label": "Unit 1 name",
+          "text": "BLOK ZA BILJ. A5 50L K SPIRALA GORE",
+          "location": {
+            "type": "box",
+            "left": 275.1136890951276,
+            "top": 861.462205700124,
+            "width": 822.6171693735499,
+            "height": 70.87980173482026
+          },
+          "refs": []
+        },
+        {
+          "uuid": "ec87f866-2e82-4ccf-b3ba-ba2fac22f186",
+          "page": 0,
+          "label": "Unit 1 Price",
+          "text": "1,40",
+          "location": {
+            "type": "box",
+            "left": 898.8863109048723,
+            "top": 962.3296158612144,
+            "width": 166.15777262180973,
+            "height": 81.78438661710027
+          },
+          "refs": [],
+          "money": {
+            "amount": "1.40",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "9e7bdac2-e656-4a2a-8e38-e2d757961594",
+          "page": 0,
+          "label": "Total Amount",
+          "text": "1,40",
+          "location": {
+            "type": "box",
+            "left": 454.89095127610204,
+            "top": 1087.732342007435,
+            "width": 242.42691415313226,
+            "height": 103.59355638166062
+          },
+          "refs": [],
+          "money": {
+            "amount": "1.40",
+            "parsed": true
+          }
+        }
+      ],
+      "values": [],
+      "is_customer_fix": false
+    },
+    "unique_id": "6522a2e5f62ca7bf8f10adc2:65219b0cba9faea3d467aa69",
+    "nucleusLink": {
+      "datasetId": "ds_cmgsncx7ybvg4sbapew0",
+      "datasetItemId": "di_cmha420a20tg0680t4w0"
+    },
+    "project_param_version": 1,
+    "customer_reviewed_by": "matejsarlija1@gmail.com",
+    "customer_audited_at": "2023-10-08T13:21:59.230Z",
+    "audits": [
+      {
+        "audited_by": "matejsarlija1@gmail.com",
+        "audited_at": "2023-10-08T13:21:59.230Z",
+        "audit_time_secs": 0,
+        "audit_active_time_secs": 0,
+        "audit_result": "accepted",
+        "audit_source": "customer"
+      }
+    ],
+    "document_pages": [
+      {
+        "url": "https://api.scale.com/v1/task/6522a2e6b1493c381b92da85/response_url_c/s3/scale-us-attachments/6522a2e6b1493c381b92da85%2Fjpeg%2F5622f97a-2e7e-4a2d-aa81-932d5169d689",
+        "width": 1174,
+        "height": 2200
+      }
+    ],
+    "batch": "batch_l945gr",
+    "batchId": "6522a2e5f62ca7bf8f10adc2",
+    "updated_at": "2023-10-08T13:22:00.302Z",
+    "work_started": true,
+    "document_was_queued_by_ml": false,
+    "customer_labeled": true,
+    "isEdgeCase": false,
+    "pipelineName": "standard_task",
+    "projectPipeline": "standard_task",
+    "responseHistory": [
+      {
+        "_id": "6522a2e6b1493c381b92da85",
+        "response": {
+          "annotations": [
+            {
+              "uuid": "9910c172-96c5-43c3-87a7-3a86724e2980",
+              "page": 0,
+              "label": "Store name",
+              "text": "NARODNE NOVINE D.D.",
+              "location": {
+                "type": "box",
+                "left": 318.69605568445473,
+                "top": 5.452292441140025,
+                "width": 544.7795823665892,
+                "height": 92.68897149938041
+              },
+              "refs": []
+            },
+            {
+              "uuid": "3731d748-01df-42c7-be77-e139d8fe292b",
+              "page": 0,
+              "label": "Store address",
+              "text": "Dolac 9",
+              "location": {
+                "type": "box",
+                "left": 457.614849187935,
+                "top": 253.53159851301115,
+                "width": 253.32250580046406,
+                "height": 62.701363073110315
+              },
+              "refs": []
+            },
+            {
+              "uuid": "40b22a13-384c-4262-87e7-794c3338f126",
+              "page": 0,
+              "label": "Unit 1 name",
+              "text": "BLOK ZA BILJ. A5 50L K SPIRALA GORE",
+              "location": {
+                "type": "box",
+                "left": 275.1136890951276,
+                "top": 861.462205700124,
+                "width": 822.6171693735499,
+                "height": 70.87980173482026
+              },
+              "refs": []
+            },
+            {
+              "uuid": "ec87f866-2e82-4ccf-b3ba-ba2fac22f186",
+              "page": 0,
+              "label": "Unit 1 Price",
+              "text": "1,40",
+              "location": {
+                "type": "box",
+                "left": 898.8863109048723,
+                "top": 962.3296158612144,
+                "width": 166.15777262180973,
+                "height": 81.78438661710027
+              },
+              "refs": [],
+              "money": {
+                "amount": "1.40",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "9e7bdac2-e656-4a2a-8e38-e2d757961594",
+              "page": 0,
+              "label": "Total Amount",
+              "text": "1,40",
+              "location": {
+                "type": "box",
+                "left": 454.89095127610204,
+                "top": 1087.732342007435,
+                "width": 242.42691415313226,
+                "height": 103.59355638166062
+              },
+              "refs": [],
+              "money": {
+                "amount": "1.40",
+                "parsed": true
+              }
+            }
+          ],
+          "values": []
+        },
+        "source": "tasker",
+        "createdAt": "2023-10-08T12:48:54.319Z",
+        "fakeModelRetraining": false
+      }
+    ],
+    "hasLidarLite": false
+  },
+  {
+    "task_id": "6522a2e6b1493c381b92da88",
+    "created_at": "2023-10-08T12:39:02.999Z",
+    "completed_at": "2023-10-08T12:47:44.772Z",
+    "type": "documenttranscription",
+    "status": "completed",
+    "instruction": " ",
+    "params": {
+      "features": [
+        {
+          "label": "Unit 1 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 1 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Unit 2 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 2 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Total Amount",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Store address",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Store name",
+          "type": "text",
+          "flags": []
+        }
+      ],
+      "fields": [],
+      "attachment_type": "image",
+      "attachments": [
+        "scaledata://6413387b009c446a440aea52/8634a34a-1ba9-42a5-a9b3-aa41a9965047"
+      ]
+    },
+    "is_test": false,
+    "urgency": "standard",
+    "metadata": {
+      "filename": "Adobe Scan Oct 01, 2023 (1)_3.jpg",
+      "upload_group_id": "2023-10-07 19:53:10",
+      "upload_source": "computer"
+    },
+    "processed_attachments": [],
+    "project": "Rapido",
+    "priority": 0,
+    "taxonomyVersion": "6522a1e0a1035490a5c8d7ea",
+    "attachmentS3Downloads": [
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/8634a34a-1ba9-42a5-a9b3-aa41a9965047",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e6b1493c381b92da88/jpeg/b96099f9-b975-4a14-bbf8-6933c782808f?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=RaEn7OwhJZJ65rWYnlmsx0gsSvIZUxGxNQfIrYcMt4e9qCdFkVqH5MTffvHZLZ9BiMnUbkXhKbBdakYYxTZYEst6J1EtWaiq5Jt%7E7AdlxsrOX3Kt2gAD-WSLX3%7EY5xj4gT3F-EVw%7EoiivqDoVAvGNi0U6XRH%7EMhMxRJKKhEsyE3WytvBoJOXDtdx6aTBwXTD4U7L0YT049odClCRciFLNay95-gGcKg9buNo9o0KXZ9JuFfyO1qIeL41Tnuaqd3rcis8JfN2bwwyWMkiXeMYJiGzWikRXHMranamJ1pZhE93pXbIPWb3lLRMGCzO1rqmLBBmQNMw4BM7Xflrqy2Pww__",
+        "warehouse": "s3",
+        "isConvertedImage": true,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 825,
+          "height": 2200,
+          "size": 274684,
+          "obfuscated": false
+        },
+        "_id": "6522a2eb4a7dfe74fe83e9df",
+        "uploadedAt": "2023-10-08T12:39:07.397Z",
+        "updatedAt": "2023-10-08T12:39:07.397Z"
+      },
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/8634a34a-1ba9-42a5-a9b3-aa41a9965047",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e6b1493c381b92da88//13170871-ce14-4606-a763-8005dbb1af63?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=DQkdfvKKYd4mSKrr6xM8roW8dbJlJyXhGrB1zHJ%7EkERFBBRaLf3X8CNHsA41r4z0IhUqUc7UGLaFjrOwbSuWYuwH5qUhwxlFmBn--FKyGtts9a-Q%7EdNZMRnZ4-oxRMb9iZE4lxBYnCMd6kjt5VJdR7RK%7ExU3Sct5uR4Wy6FM6VwDvOLq3o7Uz1IUgk9C23nVDPaMmrBTew9FhXq5omdDhe9GG9WksWGNB0PhulIN0EyXU6MEiNuAM%7ELTY7KIVWLIwyYzTdc7g7rd3DM8MR1J-bjvLwCdgqCPWOymacU8x4u8dhHuH2kXhULVAQsHyVPDy6Td9mRQl7vedfPqRuDTWg__",
+        "warehouse": "s3",
+        "isConvertedImage": false,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 825,
+          "height": 2200,
+          "size": 274684,
+          "obfuscated": false
+        },
+        "_id": "6522a2eb4a7dfe74fe83e9e0",
+        "uploadedAt": "2023-10-08T12:39:07.397Z",
+        "updatedAt": "2023-10-08T12:39:07.397Z"
+      }
+    ],
+    "customer_review_status": "accepted",
+    "customer_review_comments": [
+      ""
+    ],
+    "prior_responses": [],
+    "response": {
+      "annotations": [
+        {
+          "uuid": "eaf2de2b-ce70-4a72-aa81-e54264c65623",
+          "page": 0,
+          "label": "Store name",
+          "text": "Hoću knjigu d.o.o.",
+          "location": {
+            "type": "box",
+            "left": 38.11881188118812,
+            "top": 38.166047087980175,
+            "width": 343.0693069306931,
+            "height": 70.87980173482032
+          },
+          "refs": []
+        },
+        {
+          "uuid": "8ace9881-7a73-49d6-97c2-ebbf7e41b92e",
+          "page": 0,
+          "label": "Store address",
+          "text": "J.P. Kamova 81a",
+          "location": {
+            "type": "box",
+            "left": 424.7524752475248,
+            "top": 485.2540272614622,
+            "width": 285.89108910891093,
+            "height": 46.34448574969025
+          },
+          "refs": []
+        },
+        {
+          "uuid": "4e031e1e-9173-46f7-802a-6afedd1867e4",
+          "page": 0,
+          "label": "Unit 1 name",
+          "text": "Olovka tehnička 0,5mm Kuru Toga Uni Mitsubishi zelena",
+          "location": {
+            "type": "box",
+            "left": 32.67326732673268,
+            "top": 899.6282527881041,
+            "width": 697.0297029702971,
+            "height": 84.51053283767044
+          },
+          "refs": []
+        },
+        {
+          "uuid": "6fb7e2a4-c2d9-4274-a47d-1ade1b37d2df",
+          "page": 0,
+          "label": "Unit 1 Price",
+          "text": "2,95",
+          "location": {
+            "type": "box",
+            "left": 683.4158415841584,
+            "top": 986.8649318463445,
+            "width": 87.12871287128712,
+            "height": 46.34448574969019
+          },
+          "refs": [],
+          "money": {
+            "amount": "2.95",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "618e4ac2-b6d9-4163-b0f2-9e5e6109309d",
+          "page": 0,
+          "label": "Total Amount",
+          "text": "2,95",
+          "location": {
+            "type": "box",
+            "left": 664.3564356435644,
+            "top": 1218.5873605947957,
+            "width": 136.13861386138615,
+            "height": 43.61833952912002
+          },
+          "refs": [],
+          "money": {
+            "amount": "2.95",
+            "parsed": true
+          }
+        }
+      ],
+      "values": [],
+      "is_customer_fix": false
+    },
+    "unique_id": "6522a2e5f62ca7bf8f10adc2:65219b0c660a3966763905bf",
+    "nucleusLink": {
+      "datasetId": "ds_cmgsncx7ybvg4sbapew0",
+      "datasetItemId": "di_cmha420a20tg0680t4v0"
+    },
+    "project_param_version": 1,
+    "customer_reviewed_by": "matejsarlija1@gmail.com",
+    "customer_audited_at": "2023-10-08T13:22:03.361Z",
+    "audits": [
+      {
+        "audited_by": "matejsarlija1@gmail.com",
+        "audited_at": "2023-10-08T13:22:03.361Z",
+        "audit_time_secs": 0,
+        "audit_active_time_secs": 0,
+        "audit_result": "accepted",
+        "audit_source": "customer"
+      }
+    ],
+    "document_pages": [
+      {
+        "url": "https://api.scale.com/v1/task/6522a2e6b1493c381b92da88/response_url_c/s3/scale-us-attachments/6522a2e6b1493c381b92da88%2Fjpeg%2Fb96099f9-b975-4a14-bbf8-6933c782808f",
+        "width": 825,
+        "height": 2200
+      }
+    ],
+    "batch": "batch_l945gr",
+    "batchId": "6522a2e5f62ca7bf8f10adc2",
+    "updated_at": "2023-10-08T13:22:04.647Z",
+    "work_started": true,
+    "document_was_queued_by_ml": false,
+    "customer_labeled": true,
+    "isEdgeCase": false,
+    "pipelineName": "standard_task",
+    "projectPipeline": "standard_task",
+    "responseHistory": [
+      {
+        "_id": "6522a2e6b1493c381b92da88",
+        "response": {
+          "annotations": [
+            {
+              "uuid": "eaf2de2b-ce70-4a72-aa81-e54264c65623",
+              "page": 0,
+              "label": "Store name",
+              "text": "Hoću knjigu d.o.o.",
+              "location": {
+                "type": "box",
+                "left": 38.11881188118812,
+                "top": 38.166047087980175,
+                "width": 343.0693069306931,
+                "height": 70.87980173482032
+              },
+              "refs": []
+            },
+            {
+              "uuid": "8ace9881-7a73-49d6-97c2-ebbf7e41b92e",
+              "page": 0,
+              "label": "Store address",
+              "text": "J.P. Kamova 81a",
+              "location": {
+                "type": "box",
+                "left": 424.7524752475248,
+                "top": 485.2540272614622,
+                "width": 285.89108910891093,
+                "height": 46.34448574969025
+              },
+              "refs": []
+            },
+            {
+              "uuid": "4e031e1e-9173-46f7-802a-6afedd1867e4",
+              "page": 0,
+              "label": "Unit 1 name",
+              "text": "Olovka tehnička 0,5mm Kuru Toga Uni Mitsubishi zelena",
+              "location": {
+                "type": "box",
+                "left": 32.67326732673268,
+                "top": 899.6282527881041,
+                "width": 697.0297029702971,
+                "height": 84.51053283767044
+              },
+              "refs": []
+            },
+            {
+              "uuid": "6fb7e2a4-c2d9-4274-a47d-1ade1b37d2df",
+              "page": 0,
+              "label": "Unit 1 Price",
+              "text": "2,95",
+              "location": {
+                "type": "box",
+                "left": 683.4158415841584,
+                "top": 986.8649318463445,
+                "width": 87.12871287128712,
+                "height": 46.34448574969019
+              },
+              "refs": [],
+              "money": {
+                "amount": "2.95",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "618e4ac2-b6d9-4163-b0f2-9e5e6109309d",
+              "page": 0,
+              "label": "Total Amount",
+              "text": "2,95",
+              "location": {
+                "type": "box",
+                "left": 664.3564356435644,
+                "top": 1218.5873605947957,
+                "width": 136.13861386138615,
+                "height": 43.61833952912002
+              },
+              "refs": [],
+              "money": {
+                "amount": "2.95",
+                "parsed": true
+              }
+            }
+          ],
+          "values": []
+        },
+        "source": "tasker",
+        "createdAt": "2023-10-08T12:47:44.772Z",
+        "fakeModelRetraining": false
+      }
+    ],
+    "hasLidarLite": false
+  },
+  {
+    "task_id": "6522a2e6b1493c381b92da8a",
+    "created_at": "2023-10-08T12:39:03.035Z",
+    "completed_at": "2023-10-08T12:46:03.083Z",
+    "type": "documenttranscription",
+    "status": "completed",
+    "instruction": " ",
+    "params": {
+      "features": [
+        {
+          "label": "Unit 1 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 1 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Unit 2 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 2 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Total Amount",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Store address",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Store name",
+          "type": "text",
+          "flags": []
+        }
+      ],
+      "fields": [],
+      "attachment_type": "image",
+      "attachments": [
+        "scaledata://6413387b009c446a440aea52/7f949b2b-4148-46e1-81f9-cb44d8466f0c"
+      ]
+    },
+    "is_test": false,
+    "urgency": "standard",
+    "metadata": {
+      "filename": "Adobe Scan Oct 01, 2023 (1)_11.jpg",
+      "upload_group_id": "2023-10-07 19:53:10",
+      "upload_source": "computer"
+    },
+    "processed_attachments": [],
+    "project": "Rapido",
+    "priority": 0,
+    "taxonomyVersion": "6522a1e0a1035490a5c8d7ea",
+    "attachmentS3Downloads": [
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/7f949b2b-4148-46e1-81f9-cb44d8466f0c",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e6b1493c381b92da8a/jpeg/f16a60a7-7f73-4a4e-980f-21d9fff1db4a?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=Om0qQB2cOdAFjJFDbXeX77-7%7EKcYK3zxT6JNXYPwLArZjioGug-vH%7Ef3CimpcIGMf2jgeQCBnq3wPXy8Z-s1phUJ6hiZfjivZyeBoJnjZgN5mhOMJHQ8QCfm94zMd7T99jIxmVj3VriVoKtniQVD0mbEFgcHGe76hcuLm837XPVRs-xhM7areZ6EEnI67wL8u%7ERWhFMsHhBOeXkxFio6Kli1XdpTKLWucu8EU28edTx2Q3mgARVKIHQc6Sp%7EywpOh8R1glAk%7E%7EF4p9Tn3%7EC5Fm8XkA86SyU507TXSN6Ac13mvlS2kt7AdwRiUpurpn75LFQG6AH0BplO5K5V%7ElgpSQ__",
+        "warehouse": "s3",
+        "isConvertedImage": true,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 1021,
+          "height": 2200,
+          "size": 301157,
+          "obfuscated": false
+        },
+        "_id": "6522a2ee1997d692c7b4a36f",
+        "uploadedAt": "2023-10-08T12:39:10.181Z",
+        "updatedAt": "2023-10-08T12:39:10.181Z"
+      },
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/7f949b2b-4148-46e1-81f9-cb44d8466f0c",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e6b1493c381b92da8a//3d388e76-b2b9-4949-bae9-47f4985f0952?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=ncA1ZjdCqBKKlibohKt79Biivgpr1WCAkzYPv9iYnlcT50%7EX1CWFrZO-oiQn8WxBXl1dV60iqbkr5zSZj9eG1YTT2KW7q3C9piG0tDBHbuUG74aU1uXevMsqR3ZkkkWyDFQLgEri6ELNpzCOlKeof-Y8sOmLpZFLSPygPRERIbXpUjw-41c0Q4vh0vMC2hGryIpb09mdAyKkjmF%7Ed-uHtWwMbWL54EZ3%7EvVIoh1cxT7hDZIQ0yOXWHEXu2vPneAuTSh%7EXI4mV06LCokQ7hIOqjdO21ow8n-VEXQ%7Em5Rc-3Aif4NJzYhugU-MWB1iE4PqRmqBRSTAHnY%7EORKaIXhGzw__",
+        "warehouse": "s3",
+        "isConvertedImage": false,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 1021,
+          "height": 2200,
+          "size": 301157,
+          "obfuscated": false
+        },
+        "_id": "6522a2ee1997d692c7b4a370",
+        "uploadedAt": "2023-10-08T12:39:10.181Z",
+        "updatedAt": "2023-10-08T12:39:10.181Z"
+      }
+    ],
+    "customer_review_status": "accepted",
+    "customer_review_comments": [
+      ""
+    ],
+    "prior_responses": [],
+    "response": {
+      "annotations": [
+        {
+          "uuid": "3797761f-4663-4943-9fcc-b310dc6e8313",
+          "page": 0,
+          "label": "Unit 1 name",
+          "text": "BANANA",
+          "location": {
+            "type": "box",
+            "left": 65.344,
+            "top": 665.179677819083,
+            "width": 239.59466666666668,
+            "height": 65.42750929368026
+          },
+          "refs": []
+        },
+        {
+          "uuid": "48521840-7ce8-4a94-91ba-da078fe235bf",
+          "page": 0,
+          "label": "Unit 1 Price",
+          "text": "0.63",
+          "location": {
+            "type": "box",
+            "left": 781.4053333333333,
+            "top": 648.8228004956629,
+            "width": 127.96533333333332,
+            "height": 62.701363073110315
+          },
+          "refs": [],
+          "money": {
+            "amount": "0.63",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "bb30d9bc-52bc-4532-968f-6b332bc8ed64",
+          "page": 0,
+          "label": "Total Amount",
+          "text": "0,63",
+          "location": {
+            "type": "box",
+            "left": 819.5226666666666,
+            "top": 1180.4213135068153,
+            "width": 171.52800000000002,
+            "height": 79.05824039653044
+          },
+          "refs": [],
+          "money": {
+            "amount": "0.63",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "01942bbb-d04c-4237-8cbe-5d9009d07649",
+          "page": 0,
+          "label": "Store name",
+          "text": "KONZUM plus d.o.o.",
+          "location": {
+            "type": "box",
+            "left": 51.730666666666664,
+            "top": 204.46096654275092,
+            "width": 460.1306666666667,
+            "height": 57.249070631970284
+          },
+          "refs": []
+        },
+        {
+          "uuid": "565b86cc-6f59-4580-95f7-0e16485fb83d",
+          "page": 0,
+          "label": "Store address",
+          "text": "Rijeka, Riva 16",
+          "location": {
+            "type": "box",
+            "left": 70.78933333333333,
+            "top": 395.2912019826518,
+            "width": 367.56,
+            "height": 49.07063197026025
+          },
+          "refs": []
+        }
+      ],
+      "values": [],
+      "records": [],
+      "is_customer_fix": false
+    },
+    "unique_id": "6522a2e5f62ca7bf8f10adc2:65219b0cf91ee44867ec29a1",
+    "nucleusLink": {
+      "datasetId": "ds_cmgsncx7ybvg4sbapew0",
+      "datasetItemId": "di_cmha420a20tg0680t4xg"
+    },
+    "project_param_version": 1,
+    "customer_reviewed_by": "matejsarlija1@gmail.com",
+    "customer_audited_at": "2023-10-08T13:22:07.451Z",
+    "audits": [
+      {
+        "audited_by": "matejsarlija1@gmail.com",
+        "audited_at": "2023-10-08T13:22:07.451Z",
+        "audit_time_secs": 0,
+        "audit_active_time_secs": 0,
+        "audit_result": "accepted",
+        "audit_source": "customer"
+      }
+    ],
+    "document_pages": [
+      {
+        "url": "https://api.scale.com/v1/task/6522a2e6b1493c381b92da8a/response_url_c/s3/scale-us-attachments/6522a2e6b1493c381b92da8a%2Fjpeg%2Ff16a60a7-7f73-4a4e-980f-21d9fff1db4a",
+        "width": 1021,
+        "height": 2200
+      }
+    ],
+    "batch": "batch_l945gr",
+    "batchId": "6522a2e5f62ca7bf8f10adc2",
+    "updated_at": "2023-10-08T13:22:08.722Z",
+    "work_started": true,
+    "document_was_queued_by_ml": false,
+    "customer_labeled": true,
+    "isEdgeCase": false,
+    "pipelineName": "standard_task",
+    "projectPipeline": "standard_task",
+    "responseHistory": [
+      {
+        "_id": "6522a2e6b1493c381b92da8a",
+        "response": {
+          "annotations": [
+            {
+              "uuid": "3797761f-4663-4943-9fcc-b310dc6e8313",
+              "page": 0,
+              "label": "Unit 1 name",
+              "text": "BANANA",
+              "location": {
+                "type": "box",
+                "left": 65.344,
+                "top": 665.179677819083,
+                "width": 239.59466666666668,
+                "height": 65.42750929368026
+              },
+              "refs": []
+            },
+            {
+              "uuid": "48521840-7ce8-4a94-91ba-da078fe235bf",
+              "page": 0,
+              "label": "Unit 1 Price",
+              "text": "0.63",
+              "location": {
+                "type": "box",
+                "left": 781.4053333333333,
+                "top": 648.8228004956629,
+                "width": 127.96533333333332,
+                "height": 62.701363073110315
+              },
+              "refs": [],
+              "money": {
+                "amount": "0.63",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "bb30d9bc-52bc-4532-968f-6b332bc8ed64",
+              "page": 0,
+              "label": "Total Amount",
+              "text": "0,63",
+              "location": {
+                "type": "box",
+                "left": 819.5226666666666,
+                "top": 1180.4213135068153,
+                "width": 171.52800000000002,
+                "height": 79.05824039653044
+              },
+              "refs": [],
+              "money": {
+                "amount": "0.63",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "01942bbb-d04c-4237-8cbe-5d9009d07649",
+              "page": 0,
+              "label": "Store name",
+              "text": "KONZUM plus d.o.o.",
+              "location": {
+                "type": "box",
+                "left": 51.730666666666664,
+                "top": 204.46096654275092,
+                "width": 460.1306666666667,
+                "height": 57.249070631970284
+              },
+              "refs": []
+            },
+            {
+              "uuid": "565b86cc-6f59-4580-95f7-0e16485fb83d",
+              "page": 0,
+              "label": "Store address",
+              "text": "Rijeka, Riva 16",
+              "location": {
+                "type": "box",
+                "left": 70.78933333333333,
+                "top": 395.2912019826518,
+                "width": 367.56,
+                "height": 49.07063197026025
+              },
+              "refs": []
+            }
+          ],
+          "values": [],
+          "records": []
+        },
+        "source": "tasker",
+        "createdAt": "2023-10-08T12:46:03.083Z",
+        "fakeModelRetraining": false
+      }
+    ],
+    "hasLidarLite": false
+  },
+  {
+    "task_id": "6522a2e6b1493c381b92da83",
+    "created_at": "2023-10-08T12:39:02.982Z",
+    "completed_at": "2023-10-08T12:44:00.249Z",
+    "type": "documenttranscription",
+    "status": "completed",
+    "instruction": " ",
+    "params": {
+      "features": [
+        {
+          "label": "Unit 1 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 1 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Unit 2 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 2 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Total Amount",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Store address",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Store name",
+          "type": "text",
+          "flags": []
+        }
+      ],
+      "fields": [],
+      "attachment_type": "image",
+      "attachments": [
+        "scaledata://6413387b009c446a440aea52/219fc7b2-d511-4755-b19d-03dfbb7f7d71"
+      ]
+    },
+    "is_test": false,
+    "urgency": "standard",
+    "metadata": {
+      "filename": "Adobe Scan Oct 01, 2023 (1)_2.jpg",
+      "upload_group_id": "2023-10-07 19:53:10",
+      "upload_source": "computer"
+    },
+    "processed_attachments": [],
+    "project": "Rapido",
+    "priority": 0,
+    "taxonomyVersion": "6522a1e0a1035490a5c8d7ea",
+    "attachmentS3Downloads": [
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/219fc7b2-d511-4755-b19d-03dfbb7f7d71",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e6b1493c381b92da83/jpeg/f16818f1-2555-4fb7-ab0e-139a8027e99f?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=DRiwcrRrKmhlB00WFUoXdDAhUSlUe8g88MCyZaeAHKYvVNZP5vqJSt1juLFyMtAdnWNYKIVtOsQ-liWKPlKTkareaTjKQSRcLUrmD8CIvFle957zWO4B90Jf%7EB%7EVB%7EGQ6S6EWiV2tDqBUI759XfhHmMwPL-slF1Oq0H3wCDUiLn56--g7lSc0pdy6OZ-P1dm6L4svYVe6qjmjBRzAUVbFNCjC3o82s6WdJxa3m6zsNlbpo4Nv104qDlR3%7E6k6YWuOBZAMOX7iJKSokzrZHFMbjlMdqyVnNjXEPGPW5WxBuav4luGAj%7EwmAL3L89PPQbLeDyTFiQXE6s0DeJvtAZqAQ__",
+        "warehouse": "s3",
+        "isConvertedImage": true,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 776,
+          "height": 2200,
+          "size": 314517,
+          "obfuscated": false
+        },
+        "_id": "6522a2eb37aa56abdcb0c520",
+        "uploadedAt": "2023-10-08T12:39:07.752Z",
+        "updatedAt": "2023-10-08T12:39:07.752Z"
+      },
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/219fc7b2-d511-4755-b19d-03dfbb7f7d71",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e6b1493c381b92da83//5c6e40a8-3e4d-4853-b41f-ed17e53ee542?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=f0NL9dimKx65dXie2sotCxV3NiTfqasVKjGFv2nBRMcpIlv3tDa2GQeR8CYduTRlC5Wc3YtbuHZvofa8Hq8SRmRWZEKpRem25ZHXPlRT-Fvd2lMG-73BhcAhkOJj-gazr%7EGWGKF4ZMf81J0JVj2IjfoFWQO3v0WPz4P1%7Ezyp87yGQGVXpgGB%7ECC5ySDoLzEYMzqbvmGKEvk%7EBdXx4zSj9Zx9o-NWIsEkJ6SEr8zscwk5qFHWpAAUEKIQOBfuYG3D4FHwcz0cny-xe8yzznszp7KvF9wvY-69vkalSmTqhzfG6NvbhVxmPASPQTRHEWA1kCdaJR1UMXNJW-Anxs5JRQ__",
+        "warehouse": "s3",
+        "isConvertedImage": false,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 776,
+          "height": 2200,
+          "size": 314517,
+          "obfuscated": false
+        },
+        "_id": "6522a2eb37aa56abdcb0c521",
+        "uploadedAt": "2023-10-08T12:39:07.752Z",
+        "updatedAt": "2023-10-08T12:39:07.752Z"
+      }
+    ],
+    "customer_review_status": "accepted",
+    "customer_review_comments": [
+      ""
+    ],
+    "prior_responses": [],
+    "response": {
+      "annotations": [
+        {
+          "uuid": "ded648bb-0612-4f60-abe9-98601c53b4eb",
+          "page": 0,
+          "label": "Unit 1 name",
+          "text": "ŠAMPI.BUCKA.MAXI VH200 g",
+          "location": {
+            "type": "box",
+            "left": 25.91212653778559,
+            "top": 722.4287484510533,
+            "width": 444.59753954305796,
+            "height": 62.701363073110315
+          },
+          "refs": []
+        },
+        {
+          "uuid": "7c2a72e4-7780-4436-9c51-cf0680f260f3",
+          "page": 0,
+          "label": "Unit 1 Price",
+          "text": "1.59",
+          "location": {
+            "type": "box",
+            "left": 529.152899824253,
+            "top": 770.1363073110285,
+            "width": 100.92091388400706,
+            "height": 44.98141263940522
+          },
+          "refs": [],
+          "money": {
+            "amount": "1.59",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "c37e1a40-e844-4a1d-912a-d4470bdf16c1",
+          "page": 0,
+          "label": "Unit 2 name",
+          "text": "PIVO ZLATNI MEDVJ. O,5 L",
+          "location": {
+            "type": "box",
+            "left": 32.7311072056239,
+            "top": 805.5762081784387,
+            "width": 430.95957820738136,
+            "height": 43.618339529120135
+          },
+          "refs": []
+        },
+        {
+          "uuid": "482ab3e8-82a6-4a07-a3be-b28fc5683075",
+          "page": 0,
+          "label": "Unit 2 Price",
+          "text": "1.45",
+          "location": {
+            "type": "box",
+            "left": 542.7908611599297,
+            "top": 838.2899628252788,
+            "width": 91.37434094903335,
+            "height": 44.98141263940522
+          },
+          "refs": [],
+          "money": {
+            "amount": "1.45",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "5672af5a-51dc-4d88-9e48-721c72145fcd",
+          "page": 0,
+          "label": "Total Amount",
+          "text": "19.36",
+          "location": {
+            "type": "box",
+            "left": 515.5149384885764,
+            "top": 1653.4076827757126,
+            "width": 115.9226713532513,
+            "height": 51.79677819083008
+          },
+          "refs": [],
+          "money": {
+            "amount": "19.36",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "b38f5e53-2557-417a-bc76-92fc94aae8e0",
+          "page": 0,
+          "label": "Store name",
+          "text": "SPAR HRVATSKA d.o.o.",
+          "location": {
+            "type": "box",
+            "left": 162.29173989455182,
+            "top": 136.30731102850064,
+            "width": 406.4112478031634,
+            "height": 44.98141263940519
+          },
+          "refs": []
+        },
+        {
+          "uuid": "4fc075cf-8a2f-4e80-96dc-9b262fceb506",
+          "page": 0,
+          "label": "Store address",
+          "text": "Osječka 29, 51000 Rijeka",
+          "location": {
+            "type": "box",
+            "left": 140.47100175746922,
+            "top": 280.7930607187113,
+            "width": 469.14586994727586,
+            "height": 50.433705080545224
+          },
+          "refs": []
+        }
+      ],
+      "values": [],
+      "is_customer_fix": false
+    },
+    "unique_id": "6522a2e5f62ca7bf8f10adc2:65219b0c1133dafb7ca77d43",
+    "nucleusLink": {
+      "datasetId": "ds_cmgsncx7ybvg4sbapew0",
+      "datasetItemId": "di_cmha420a20tg0680t4yg"
+    },
+    "project_param_version": 1,
+    "customer_reviewed_by": "matejsarlija1@gmail.com",
+    "customer_audited_at": "2023-10-08T13:22:10.568Z",
+    "audits": [
+      {
+        "audited_by": "matejsarlija1@gmail.com",
+        "audited_at": "2023-10-08T13:22:10.568Z",
+        "audit_time_secs": 0,
+        "audit_active_time_secs": 0,
+        "audit_result": "accepted",
+        "audit_source": "customer"
+      }
+    ],
+    "document_pages": [
+      {
+        "url": "https://api.scale.com/v1/task/6522a2e6b1493c381b92da83/response_url_c/s3/scale-us-attachments/6522a2e6b1493c381b92da83%2Fjpeg%2Ff16818f1-2555-4fb7-ab0e-139a8027e99f",
+        "width": 776,
+        "height": 2200
+      }
+    ],
+    "batch": "batch_l945gr",
+    "batchId": "6522a2e5f62ca7bf8f10adc2",
+    "updated_at": "2023-10-08T13:22:11.910Z",
+    "work_started": true,
+    "document_was_queued_by_ml": false,
+    "customer_labeled": true,
+    "isEdgeCase": false,
+    "pipelineName": "standard_task",
+    "projectPipeline": "standard_task",
+    "responseHistory": [
+      {
+        "_id": "6522a2e6b1493c381b92da83",
+        "response": {
+          "annotations": [
+            {
+              "uuid": "ded648bb-0612-4f60-abe9-98601c53b4eb",
+              "page": 0,
+              "label": "Unit 1 name",
+              "text": "ŠAMPI.BUCKA.MAXI VH200 g",
+              "location": {
+                "type": "box",
+                "left": 25.91212653778559,
+                "top": 722.4287484510533,
+                "width": 444.59753954305796,
+                "height": 62.701363073110315
+              },
+              "refs": []
+            },
+            {
+              "uuid": "7c2a72e4-7780-4436-9c51-cf0680f260f3",
+              "page": 0,
+              "label": "Unit 1 Price",
+              "text": "1.59",
+              "location": {
+                "type": "box",
+                "left": 529.152899824253,
+                "top": 770.1363073110285,
+                "width": 100.92091388400706,
+                "height": 44.98141263940522
+              },
+              "refs": [],
+              "money": {
+                "amount": "1.59",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "c37e1a40-e844-4a1d-912a-d4470bdf16c1",
+              "page": 0,
+              "label": "Unit 2 name",
+              "text": "PIVO ZLATNI MEDVJ. O,5 L",
+              "location": {
+                "type": "box",
+                "left": 32.7311072056239,
+                "top": 805.5762081784387,
+                "width": 430.95957820738136,
+                "height": 43.618339529120135
+              },
+              "refs": []
+            },
+            {
+              "uuid": "482ab3e8-82a6-4a07-a3be-b28fc5683075",
+              "page": 0,
+              "label": "Unit 2 Price",
+              "text": "1.45",
+              "location": {
+                "type": "box",
+                "left": 542.7908611599297,
+                "top": 838.2899628252788,
+                "width": 91.37434094903335,
+                "height": 44.98141263940522
+              },
+              "refs": [],
+              "money": {
+                "amount": "1.45",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "5672af5a-51dc-4d88-9e48-721c72145fcd",
+              "page": 0,
+              "label": "Total Amount",
+              "text": "19.36",
+              "location": {
+                "type": "box",
+                "left": 515.5149384885764,
+                "top": 1653.4076827757126,
+                "width": 115.9226713532513,
+                "height": 51.79677819083008
+              },
+              "refs": [],
+              "money": {
+                "amount": "19.36",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "b38f5e53-2557-417a-bc76-92fc94aae8e0",
+              "page": 0,
+              "label": "Store name",
+              "text": "SPAR HRVATSKA d.o.o.",
+              "location": {
+                "type": "box",
+                "left": 162.29173989455182,
+                "top": 136.30731102850064,
+                "width": 406.4112478031634,
+                "height": 44.98141263940519
+              },
+              "refs": []
+            },
+            {
+              "uuid": "4fc075cf-8a2f-4e80-96dc-9b262fceb506",
+              "page": 0,
+              "label": "Store address",
+              "text": "Osječka 29, 51000 Rijeka",
+              "location": {
+                "type": "box",
+                "left": 140.47100175746922,
+                "top": 280.7930607187113,
+                "width": 469.14586994727586,
+                "height": 50.433705080545224
+              },
+              "refs": []
+            }
+          ],
+          "values": []
+        },
+        "source": "tasker",
+        "createdAt": "2023-10-08T12:44:00.249Z",
+        "fakeModelRetraining": false
+      }
+    ],
+    "hasLidarLite": false
+  },
+  {
+    "task_id": "6522a2e9b1493c381b92dd29",
+    "created_at": "2023-10-08T12:39:05.203Z",
+    "completed_at": "2023-10-08T12:43:56.660Z",
+    "type": "documenttranscription",
+    "status": "completed",
+    "instruction": " ",
+    "params": {
+      "features": [
+        {
+          "label": "Unit 1 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 1 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Unit 2 name",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Unit 2 Price",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Total Amount",
+          "type": "text",
+          "flags": [
+            "money"
+          ]
+        },
+        {
+          "label": "Store address",
+          "type": "text",
+          "flags": []
+        },
+        {
+          "label": "Store name",
+          "type": "text",
+          "flags": []
+        }
+      ],
+      "fields": [],
+      "attachment_type": "image",
+      "attachments": [
+        "scaledata://6413387b009c446a440aea52/7fd562f1-fcfb-4751-8abd-46cf286defca"
+      ]
+    },
+    "is_test": false,
+    "urgency": "standard",
+    "metadata": {
+      "filename": "Konzum-92734-0347-2-2023_page-0001.jpg",
+      "upload_group_id": "2023-10-07 19:53:10",
+      "upload_source": "computer"
+    },
+    "processed_attachments": [],
+    "project": "Rapido",
+    "priority": 0,
+    "taxonomyVersion": "6522a1e0a1035490a5c8d7ea",
+    "attachmentS3Downloads": [
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/7fd562f1-fcfb-4751-8abd-46cf286defca",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e9b1493c381b92dd29/jpeg/16f5bbac-6a52-4b20-8516-2d5d08376450?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=jY1pfGxyabnV%7EYC7mqQ6O5ZPpHjwmRgmIx65osVUCIHyQGgx55HnxrbMHgWtQvJ-W8Nbnrwy2nJ9aCPKyCdSScAhFuD6VnGD4dRukpVtb7YwI9ASHqbxT-dvgcT95VHPKeUJOMy4UAfFDdKdcQqPN9PLgUTyljo7EPt0Lm3mCjmLGfQNaeOrXuHmGJORF2Uw9MVfgRfkVUIs4NhXHPpGMSIkcCYpjexjXBP2103U4KV4FMIbzZgF5F6mahiGbhUegTKqrcb%7EqNGVIcH0Vw6QKxOb1atWkynImmBTWiKYMUNb8ybcwNPKYzYp84crVjYCPCAYEVaOnve3KWZYZ5BrYg__",
+        "warehouse": "s3",
+        "isConvertedImage": true,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 532,
+          "height": 2253,
+          "size": 452035,
+          "obfuscated": false
+        },
+        "_id": "6522a2ecf90c41d13a967f2a",
+        "uploadedAt": "2023-10-08T12:39:08.407Z",
+        "updatedAt": "2023-10-08T12:39:08.407Z"
+      },
+      {
+        "attachmentURL": "scaledata://6413387b009c446a440aea52/7fd562f1-fcfb-4751-8abd-46cf286defca",
+        "s3URL": "https://attachments.labeling-data.net/6522a2e9b1493c381b92dd29//45759ab0-a8a7-4b72-89a8-f119c3ceb446?Expires=1696824000&Key-Pair-Id=APKAUPBNRLRVMDR2NAS6&Signature=Cs7b8PEAaCka1bMcM39IRm5n2AqvtgCVAFTTkmJCTrYm7n8W83ncs-khjjqxgYzT1ahM-Yz4UfyO6ZCn1laDc-hT7oCRt%7E6j75d-0RnM%7ERnsuI5aY-YCq5vnHpDR-nhHxEPMePLy-RnNk5IRsR4WTrzW73vldnIlGWnBXfq5n7kprxU-H7%7EVNhAHUlVZdObRjNdsxiK4FiYgB2fiT4b8dRlZV-AlppJ9xX1Q5TBjBIwqm0NBHAprw5X7JKZQxW5t%7EUbEmjkNy2SsBVRjT2OVfrv5XffDQU0y%7EsGOnPm0IXCJiptL%7E188%7Ef-m7YbeP22l%7Ema0qLqME3AwMh2KCBJblw__",
+        "warehouse": "s3",
+        "isConvertedImage": false,
+        "metadata": {
+          "mimeType": "image/jpeg",
+          "width": 532,
+          "height": 2253,
+          "size": 452035,
+          "obfuscated": false
+        },
+        "_id": "6522a2ecf90c41d13a967f2b",
+        "uploadedAt": "2023-10-08T12:39:08.407Z",
+        "updatedAt": "2023-10-08T12:39:08.407Z"
+      }
+    ],
+    "customer_review_status": "accepted",
+    "customer_review_comments": [
+      ""
+    ],
+    "prior_responses": [],
+    "response": {
+      "annotations": [
+        {
+          "uuid": "2202cc9a-3423-41f9-8393-303faf442545",
+          "page": 0,
+          "label": "Unit 1 name",
+          "text": "GRAH GARDEN GOD CRV",
+          "location": {
+            "type": "box",
+            "left": 30.719160104986877,
+            "top": 441.10780669144987,
+            "width": 237.37532808398947,
+            "height": 23.730483271375476
+          },
+          "refs": []
+        },
+        {
+          "uuid": "591b8d68-831a-4182-98ae-c77e89b1ef34",
+          "page": 0,
+          "label": "Unit 1 Price",
+          "text": "0.85",
+          "location": {
+            "type": "box",
+            "left": 325.3438320209974,
+            "top": 432.73234200743497,
+            "width": 71.2125984251968,
+            "height": 26.522304832713758
+          },
+          "refs": [],
+          "money": {
+            "amount": "0.85",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "d3970fa4-b2a4-4dad-a7b7-edde03a65ab3",
+          "page": 0,
+          "label": "Unit 2 name",
+          "text": "PIVO STAROČEŠKO 0,5",
+          "location": {
+            "type": "box",
+            "left": 30.719160104986877,
+            "top": 485.7769516728625,
+            "width": 240.1679790026247,
+            "height": 33.501858736059546
+          },
+          "refs": []
+        },
+        {
+          "uuid": "c83eda7e-c430-4e98-8629-4a56f06a70ef",
+          "page": 0,
+          "label": "Unit 2 Price",
+          "text": "1.33",
+          "location": {
+            "type": "box",
+            "left": 330.92913385826773,
+            "top": 491.3605947955391,
+            "width": 65.62729658792648,
+            "height": 22.33457249070625
+          },
+          "refs": [],
+          "money": {
+            "amount": "1.33",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "9f5c82ec-802d-4818-87ff-bd89c7931820",
+          "page": 0,
+          "label": "Total Amount",
+          "text": "5.79",
+          "location": {
+            "type": "box",
+            "left": 431.46456692913387,
+            "top": 1028.78624535316,
+            "width": 79.59055118110234,
+            "height": 33.501858736059376
+          },
+          "refs": [],
+          "money": {
+            "amount": "5.79",
+            "parsed": true
+          }
+        },
+        {
+          "uuid": "da4dc50d-9260-4e8c-b745-70780d28e1ba",
+          "page": 0,
+          "label": "Store name",
+          "text": "KONZUM plus d.o.o.",
+          "location": {
+            "type": "box",
+            "left": 37.70078740157481,
+            "top": 168.90520446096656,
+            "width": 245.753280839895,
+            "height": 23.730483271375476
+          },
+          "refs": []
+        },
+        {
+          "uuid": "d265ab16-0377-4bc6-9138-29b114154f88",
+          "page": 0,
+          "label": "Store address",
+          "text": "Lipik, Trg Kralja Tomislava 6-8",
+          "location": {
+            "type": "box",
+            "left": 39.09711286089239,
+            "top": 266.6189591078067,
+            "width": 383.989501312336,
+            "height": 32.10594795539038
+          },
+          "refs": []
+        }
+      ],
+      "values": [],
+      "is_customer_fix": false
+    },
+    "unique_id": "6522a2e5f62ca7bf8f10adc2:65219b12792c9beab126fd06",
+    "nucleusLink": {
+      "datasetId": "ds_cmgsncx7ybvg4sbapew0",
+      "datasetItemId": "di_cmha420a20tg0680t510"
+    },
+    "project_param_version": 1,
+    "customer_reviewed_by": "matejsarlija1@gmail.com",
+    "customer_audited_at": "2023-10-08T13:22:14.757Z",
+    "audits": [
+      {
+        "audited_by": "matejsarlija1@gmail.com",
+        "audited_at": "2023-10-08T13:22:14.757Z",
+        "audit_time_secs": 0,
+        "audit_active_time_secs": 0,
+        "audit_result": "accepted",
+        "audit_source": "customer"
+      }
+    ],
+    "document_pages": [
+      {
+        "url": "https://api.scale.com/v1/task/6522a2e9b1493c381b92dd29/response_url_c/s3/scale-us-attachments/6522a2e9b1493c381b92dd29%2Fjpeg%2F16f5bbac-6a52-4b20-8516-2d5d08376450",
+        "width": 532,
+        "height": 2253
+      }
+    ],
+    "batch": "batch_l945gr",
+    "batchId": "6522a2e5f62ca7bf8f10adc2",
+    "updated_at": "2023-10-08T13:23:30.546Z",
+    "work_started": true,
+    "document_was_queued_by_ml": false,
+    "customer_labeled": true,
+    "isEdgeCase": false,
+    "pipelineName": "standard_task",
+    "projectPipeline": "standard_task",
+    "responseHistory": [
+      {
+        "_id": "6522a2e9b1493c381b92dd29",
+        "response": {
+          "annotations": [
+            {
+              "uuid": "2202cc9a-3423-41f9-8393-303faf442545",
+              "page": 0,
+              "label": "Unit 1 name",
+              "text": "GRAH GARDEN GOD CRV",
+              "location": {
+                "type": "box",
+                "left": 30.719160104986877,
+                "top": 441.10780669144987,
+                "width": 237.37532808398947,
+                "height": 23.730483271375476
+              },
+              "refs": []
+            },
+            {
+              "uuid": "591b8d68-831a-4182-98ae-c77e89b1ef34",
+              "page": 0,
+              "label": "Unit 1 Price",
+              "text": "0.85",
+              "location": {
+                "type": "box",
+                "left": 325.3438320209974,
+                "top": 432.73234200743497,
+                "width": 71.2125984251968,
+                "height": 26.522304832713758
+              },
+              "refs": [],
+              "money": {
+                "amount": "0.85",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "d3970fa4-b2a4-4dad-a7b7-edde03a65ab3",
+              "page": 0,
+              "label": "Unit 2 name",
+              "text": "PIVO STAROČEŠKO 0,5",
+              "location": {
+                "type": "box",
+                "left": 30.719160104986877,
+                "top": 485.7769516728625,
+                "width": 240.1679790026247,
+                "height": 33.501858736059546
+              },
+              "refs": []
+            },
+            {
+              "uuid": "c83eda7e-c430-4e98-8629-4a56f06a70ef",
+              "page": 0,
+              "label": "Unit 2 Price",
+              "text": "1.33",
+              "location": {
+                "type": "box",
+                "left": 330.92913385826773,
+                "top": 491.3605947955391,
+                "width": 65.62729658792648,
+                "height": 22.33457249070625
+              },
+              "refs": [],
+              "money": {
+                "amount": "1.33",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "9f5c82ec-802d-4818-87ff-bd89c7931820",
+              "page": 0,
+              "label": "Total Amount",
+              "text": "5.79",
+              "location": {
+                "type": "box",
+                "left": 431.46456692913387,
+                "top": 1028.78624535316,
+                "width": 79.59055118110234,
+                "height": 33.501858736059376
+              },
+              "refs": [],
+              "money": {
+                "amount": "5.79",
+                "parsed": true
+              }
+            },
+            {
+              "uuid": "da4dc50d-9260-4e8c-b745-70780d28e1ba",
+              "page": 0,
+              "label": "Store name",
+              "text": "KONZUM plus d.o.o.",
+              "location": {
+                "type": "box",
+                "left": 37.70078740157481,
+                "top": 168.90520446096656,
+                "width": 245.753280839895,
+                "height": 23.730483271375476
+              },
+              "refs": []
+            },
+            {
+              "uuid": "d265ab16-0377-4bc6-9138-29b114154f88",
+              "page": 0,
+              "label": "Store address",
+              "text": "Lipik, Trg Kralja Tomislava 6-8",
+              "location": {
+                "type": "box",
+                "left": 39.09711286089239,
+                "top": 266.6189591078067,
+                "width": 383.989501312336,
+                "height": 32.10594795539038
+              },
+              "refs": []
+            }
+          ],
+          "values": []
+        },
+        "source": "tasker",
+        "createdAt": "2023-10-08T12:43:56.660Z",
+        "fakeModelRetraining": false
+      }
+    ],
+    "hasLidarLite": false
+  }
+]
